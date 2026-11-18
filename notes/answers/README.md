@@ -1,6 +1,6 @@
 # Answer sheets
 
-One file per unit. Each row is only the answer: the lesson and the video to watch.
+One file per unit. Each row gives the Code.org lesson code, the lesson, the video to watch, and a clickable video link you can copy-paste into that lesson's assignment.
 
 - [Unit 1 — Digital Information](unit-01-digital-information.md) — 13 lessons
 - [Unit 2 — The Internet](unit-02-the-internet.md) — 8 lessons

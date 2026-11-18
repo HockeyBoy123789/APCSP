@@ -48,6 +48,10 @@ for line in open(SRC):
 def esc(x):
     return str(x).replace("|", "\\|")
 
+def lesson_code(unit, lesson):
+    m = re.match(r"\s*(\d+)\.", lesson)
+    return f"U{unit}L{int(m.group(1))}" if m else f"U{unit}L?"
+
 os.makedirs(OUT, exist_ok=True)
 
 def slug(name):
@@ -56,7 +60,8 @@ def slug(name):
     return s
 
 index = ["# Answer sheets", "",
-         "One file per unit. Each row is only the answer: the lesson and the video to watch.", ""]
+         "One file per unit. Each row gives the Code.org lesson code, the lesson, the video to watch, "
+         "and a clickable video link you can copy-paste into that lesson's assignment.", ""]
 
 total = 0
 for unit, title in UNITS.items():
@@ -64,15 +69,17 @@ for unit, title in UNITS.items():
     total += len(urows)
     fname = f"unit-{unit:02d}-{slug(title)}.md"
     lines = [f"# Unit {unit} — {title}", ""]
-    lines.append("| Lesson | Answer | Link |")
-    lines.append("|---|---|---|")
+    lines.append("| Code | Lesson | Answer | Link |")
+    lines.append("|---|---|---|---|")
     missing = 0
     for r in urows:
+        code = esc(lesson_code(unit, r["lesson"]))
         if r["video"] == "—":
             missing += 1
-            lines.append(f"| {esc(r['lesson'])} | No video — use the Code.org lesson plan | — |")
+            lines.append(f"| {code} | {esc(r['lesson'])} | No video — use the Code.org lesson plan | — |")
         else:
-            lines.append(f"| {esc(r['lesson'])} | {esc(r['video'])} ({esc(r['channel'])}) | {r['url']} |")
+            url = r["url"]
+            lines.append(f"| {code} | {esc(r['lesson'])} | {esc(r['video'])} ({esc(r['channel'])}) | [{url}]({url}) |")
     lines.append("")
     open(os.path.join(OUT, fname), "w").write("\n".join(lines))
     index.append(f"- [Unit {unit} — {title}]({fname}) — {len(urows)} lessons"

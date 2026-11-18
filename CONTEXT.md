@@ -18,7 +18,7 @@ The deliverable so far is a lesson-by-lesson map of YouTube videos that explain 
 | Video research | Done for all 97 lessons |
 | Report (raw) | `notes/csp-2025-video-map.md` (single table + notes) |
 | Report (formatted) | `notes/csp-2025-video-guide.md` — verified: 97 rows, 88 URLs, 0 metadata diffs |
-| Answer sheets | `notes/answers/` — 10 per-unit files, answers only (lesson → video + link) |
+| Answer sheets | `notes/answers/` — 10 per-unit files: code, lesson, video, clickable link |
 | Commits | `225335d` scaffold, `e86ea3c` video map, plus formatting commit |
 
 ## How the curriculum was confirmed
@@ -55,14 +55,16 @@ Any pre-2024 video labelled Unit 5/6/8/9/10 must be re-mapped, never assumed.
 - `notes/csp-2025-video-guide.md` — reader-facing guide (per-unit sections, TOC, gaps, appendices).
 - `notes/csp-2025-video-map.md` — raw single-table source of truth; the scripts parse this.
 - `notes/answers/README.md` — index of the 10 answer sheets.
-- `notes/answers/unit-NN-*.md` — answers only: Lesson | Answer | Link. Generated, do not hand-edit.
+- `notes/answers/unit-NN-*.md` — answers only: Code | Lesson | Answer | Link, with clickable video
+  links. Codes are `U{unit}L{lesson}` (e.g. U1L4). Generated, do not hand-edit.
 - `data/lessons.json` — scraped lesson list (unit, number, title, duration).
 - `data/queries.json` / `data/results.json` — search query per lesson and raw top-12 YouTube results.
 - `data/meta.json` — verified metadata for 121 candidate videos (title, channel, seconds, publishDate, description).
 - `scripts/yt.py` — YouTube search scraper (parses `ytInitialData`; needs unverified SSL context on this machine).
 - `scripts/meta.py` — watch-page metadata scraper (reads `ytInitialPlayerResponse`).
 - `scripts/build_report.py` — builds the markdown table from `meta.json` + the ROWS list.
-- `scripts/build_answers.py` — parses the map and regenerates `notes/answers/` (97 lessons checked).
+- `scripts/build_answers.py` — parses the map and regenerates `notes/answers/` (97 lessons checked),
+  adding Code.org lesson codes and clickable video links.
 - `scripts/run_search.py`, `scripts/make_queries.py` — batch search pipeline.
 
 ## Method / honesty notes
