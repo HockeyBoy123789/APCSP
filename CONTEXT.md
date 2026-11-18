@@ -19,6 +19,7 @@ The deliverable so far is a lesson-by-lesson map of YouTube videos that explain 
 | Report (raw) | `notes/csp-2025-video-map.md` (single table + notes) |
 | Report (formatted) | `notes/csp-2025-video-guide.md` — verified: 97 rows, 88 URLs, 0 metadata diffs |
 | Answer sheets | `notes/answers/` — 10 per-unit files: code, lesson, video, clickable link |
+| Reference solutions | `src/` — 4 lessons (U6L4, U6L8, U6L12, U7L8) extracted from answer-key videos |
 | Commits | `225335d` scaffold, `e86ea3c` video map, plus formatting commit |
 
 ## How the curriculum was confirmed
@@ -66,6 +67,11 @@ Any pre-2024 video labelled Unit 5/6/8/9/10 must be re-mapped, never assumed.
 - `scripts/build_answers.py` — parses the map and regenerates `notes/answers/` (97 lessons checked),
   adding Code.org lesson codes and clickable video links.
 - `scripts/run_search.py`, `scripts/make_queries.py` — batch search pipeline.
+- `scripts/ocr_video.swift` — samples a video and OCRs every frame (AVFoundation + Vision).
+- `scripts/frame.swift` — dumps one frame as PNG (most accurate way to read code).
+- `scripts/ocr_code.py` — filters OCR output to code-like lines / a time window.
+- `scripts/README.md` — full extraction workflow, including the yt-dlp command.
+- `src/` — App Lab reference solutions, one folder per lesson; see `src/README.md`.
 
 ## Method / honesty notes
 
@@ -78,7 +84,20 @@ Any pre-2024 video labelled Unit 5/6/8/9/10 must be re-mapped, never assumed.
 
 ## In flight
 
-Nothing. The formatting pass is finished.
+Reference solutions in `src/` — started 2026-11-17.
+
+- Done: **U6 L4 RemindMe**, **U6 L8 Lock Screen Maker**, **U6 L12 Random Forecaster**,
+  **U7 L8 Make a Library**. Each has a per-lesson README and commented App Lab JS.
+- Method: read the answer-key video frame by frame (OCR + direct frame images), then
+  write a clean version. Frames beat OCR; see `scripts/README.md`.
+- Not literal transcriptions: the walkthrough videos edit code live, so the files are
+  the final working version, with inferred glue (element lists, event handlers) called
+  out in each README.
+- Only ~10 of the 97 mapped videos are actual answer-key walkthroughs. The rest are
+  concept tutorials and cannot supply complete code.
+
+Answer-sheet work is finished: `notes/answers/` has codes, lessons, videos and
+clickable links; 97 rows, 88 links, 9 gaps.
 
 - `notes/csp-2025-video-guide.md` is the reader-facing version: intro, how-to-use, at-a-glance counts,
   linked TOC, one section per unit with its own 7-column table and a one-line takeaway, gaps section,
@@ -90,10 +109,89 @@ Nothing. The formatting pass is finished.
 ## Next steps (pick up here)
 
 0. Regenerate answers after any pick change: `python3 scripts/build_answers.py`
-1. Optional: fill the 9 gaps with Code.org teacher-forum or teacher-PD resources (not YouTube).
-2. Optional: extend `scripts/build_report.py` to emit CSV/JSON for a spreadsheet.
-3. Optional: add a per-unit "study order" (which lessons to pair with which video) for Adrian's pacing.
+1. Continue reference solutions from the answer-key videos:
+   U6 L13 Hackathon, U7 L3 Practice, U7 L4 RPS Make,
+   U4 L2 Investigate, U4 L8 Conditionals Make, U4 L11 Functions Make,
+   U4 L12 Decision Maker, U3 L7 Designing an App.
+2. Optional: fill the 9 gaps with Code.org teacher-forum or teacher-PD resources (not YouTube).
+3. Optional: extend `scripts/build_report.py` to emit CSV/JSON for a spreadsheet.
 4. Always update this file before context runs out, and commit.
+
+## How to extract another lesson's code (repeatable)
+
+This is the procedure that produced `src/unit-06/lesson-04-lists-make/` and the three
+solutions beside it. It works from any answer-key video in the map, even in a fresh
+session with no memory of this conversation.
+
+### Prerequisites (one-time)
+
+```bash
+python3 -m pip install --user yt-dlp     # only needed once
+swiftc --version                          # Xcode CLT must be installed
+```
+
+### Pipeline
+
+```bash
+cd ~/Desktop/APCSP
+VIDEO=ChYHvfktgCE                         # pick from the table below / notes/answers
+NAME=u6l13
+
+# 1. Download 720p H.264. Format 136 is H.264; do NOT let yt-dlp pick AV1 (fmt 398),
+#    because AVFoundation cannot decode AV1 and OCR silently outputs nothing.
+python3 -m yt_dlp --no-check-certificates \
+  -f '136/bv*[ext=mp4][vcodec^=avc1]/b[ext=mp4]' \
+  -o /tmp/$NAME.%(ext)s "https://youtu.be/$VIDEO"
+
+# 2. OCR one frame every 2 seconds (~2 min per 20 min of video).
+swiftc -O scripts/ocr_video.swift -o /tmp/ocr
+/tmp/ocr /tmp/$NAME.mp4 2 > /tmp/ocr_$NAME.txt
+
+# 3. Find the timestamps where real code is on screen.
+python3 scripts/ocr_code.py /tmp/ocr_$NAME.txt
+python3 scripts/ocr_code.py /tmp/ocr_$NAME.txt --find 1000
+
+# 4. Read frames directly — OCR guesses, the image does not.
+swiftc -O scripts/frame.swift -o /tmp/frame
+/tmp/frame /tmp/$NAME.mp4 1000 /tmp/f1000.png   # then open /tmp/f1000.png
+```
+
+**Read frames, not just OCR.** OCR confuses `"` with `v`, `&` with `8`, `|` with `l`,
+and drops brackets. Pick a frame in the middle of a stable run, read it, and use OCR
+only to locate the timestamps.
+
+### Then write the solution
+
+1. Create `src/unit-NN/lesson-NN-slug/`.
+2. `README.md`: lesson name, source video + URL, timestamps where code appears, what the
+   app does, a table of required element IDs, key ideas, caveats.
+3. `app.js` (or `library.js`): clean, commented App Lab text-mode code. Note at the top
+   where it came from. Keep the video's final working version; the walkthroughs edit
+   code live, so early frames are not the answer.
+4. `node --check src/.../app.js` — syntax check.
+5. Add the new folder to the layout in `src/README.md`.
+6. Update "In flight" and this file, then commit.
+
+### Answer-key videos still to do (from the map)
+
+| Lesson | Video ID | Length | Notes |
+|---|---|---|---|
+| U6 L13 Hackathon | `ChYHvfktgCE` | 43:52 | complete project build |
+| U7 L3 Parameters/Return Practice | `8t-HxetA4ns` | 4:33 | answer tutorial |
+| U7 L4 Parameters/Return Make (RPS) | `XFcgoBRHl-c` | 14:19 | class build |
+| U4 L2 Variables Investigate | `G6X4jByg41I` | 30:30 | works every level |
+| U4 L8 Conditionals Make | `rTU79XM8V1Q` | 28:12 | museum-ticket app |
+| U4 L11 Functions Make | `T5mFiXHqTmo` | 42:13 | quote-maker app |
+| U4 L12 Decision Maker | `ASE01GgeIdc` | 33:19 | complete app |
+| U3 L7 Designing an App Part 2 | `Sy3PYZ7QLhc` | 43:16 | project build |
+
+Done already: U6 L4 (`z_OOZ2gaY-s`), U6 L8 (`B-yYUaC5GxE`), U6 L12 (`pk32rysRQAg`),
+U7 L8 (`1joEzBtosrY`).
+
+**Hard limit:** only these answer-key / walkthrough videos contain completed code. The
+other coding-lesson videos are concept tutorials (e.g. U4 L3 `2DLWC7DMPx0` never solves
+the Code.org levels). For those, a reference solution has to be written from Code.org's
+public lesson plan, not extracted from video — say so in the README if that happens.
 
 ## Commands
 
