@@ -1,0 +1,983 @@
+[
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Welcome to CSP",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Representing Information",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Circle Square Patterns",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Binary Numbers",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Overflow and Rounding",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Representing Text",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Black and White Images",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Color Images",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 9,
+  "lesson_title": "Lesson 9: Lossless Compression",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 10,
+  "lesson_title": "Lesson 10: Lossy Compression",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 11,
+  "lesson_title": "Lesson 11: Intellectual Property",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 12,
+  "lesson_title": "Lesson 12: Project - Digital Information Dilemmas",
+  "duration": 90,
+  "assessment": true,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 13,
+  "lesson_title": "Lesson 13: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 1 - Digital Information",
+  "unit_num": 1,
+  "lessonNumber": 14,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Welcome to the Internet",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Building a Network",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: The Need for Addressing",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Routers and Redundancy",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Packets",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: HTTP and DNS",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Project - Internet Dilemmas",
+  "duration": 90,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 2 - The Internet",
+  "unit_num": 2,
+  "lessonNumber": 9,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Introduction to Apps",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Introduction to Design Mode",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Project - Designing an App Part 1",
+  "duration": 90,
+  "assessment": true,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: The Need for Programming Languages",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Intro to Programming",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Debugging",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Project - Designing an App Part 2",
+  "duration": 135,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 3 - Intro to App Design",
+  "unit_num": 3,
+  "lessonNumber": 9,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Variables Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Variables Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Variables Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Variables Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Conditionals Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Conditionals Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Conditionals Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Conditionals Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 9,
+  "lesson_title": "Lesson 9: Functions Explore and Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 10,
+  "lesson_title": "Lesson 10: Functions Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 11,
+  "lesson_title": "Lesson 11: Functions Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 12,
+  "lesson_title": "Lesson 12: Project - Decision Maker App",
+  "duration": 135,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 13,
+  "lesson_title": "Lesson 13: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 14,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 4 - Variables, Conditionals, and Functions",
+  "unit_num": 4,
+  "lessonNumber": 15,
+  "lesson_title": "Lesson 7 (Alternate): Conditionals Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Learning from Data",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Exploring One Column",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Filtering and Cleaning Data",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Exploring Two Columns",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Big, Open, and Crowdsourced Data",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Machine Learning",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Algorithmic Bias",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Project - Tell a Data Story",
+  "duration": 90,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 9,
+  "lesson_title": "Lesson 9: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 5 - Data",
+  "unit_num": 5,
+  "lessonNumber": 10,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Lists Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Lists Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Lists Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Lists Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Loops Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Loops Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Loops Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Loops Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 9,
+  "lesson_title": "Lesson 9: Traversals Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 10,
+  "lesson_title": "Lesson 10: Traversals Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 11,
+  "lesson_title": "Lesson 11: Traversals Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 12,
+  "lesson_title": "Lesson 12: Traversals Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 13,
+  "lesson_title": "Lesson 13: Project - Hackathon",
+  "duration": 225,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 14,
+  "lesson_title": "Lesson 14: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 15,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 6 - Lists, Loops, and Traversals",
+  "unit_num": 6,
+  "lessonNumber": 16,
+  "lesson_title": "Lesson 3 (Alternate): Lists Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Parameters and Return Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Parameters and Return Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Parameters and Return Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Parameters and Return Make",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Libraries Explore",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Libraries Investigate",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Libraries Practice",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Project  - Make a Library Part 1",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 9,
+  "lesson_title": "Lesson 9: Project - Make a Library Part 2",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 10,
+  "lesson_title": "Lesson 10: Project - Make a Library Part 3",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 11,
+  "lesson_title": "Lesson 11: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 7 - Parameters, Return, and Libraries",
+  "unit_num": 7,
+  "lessonNumber": 12,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Project - Innovation Simulation Part 1",
+  "duration": 90,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Data Policies and Privacy",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: The Value of Privacy",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Project - Innovation Simulation Part 2",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Security Risks Part 1",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Security Risks Part 2",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 7,
+  "lesson_title": "Lesson 7: Project - Innovation Simulation Part 3",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 8,
+  "lesson_title": "Lesson 8: Protecting Data Part 1",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 9,
+  "lesson_title": "Lesson 9: Protecting Data Part 2",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 10,
+  "lesson_title": "Lesson 10: Project - Innovation Simulation Part 4",
+  "duration": 135,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 11,
+  "lesson_title": "Lesson 11: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 8 - Cybersecurity and Global Impacts",
+  "unit_num": 8,
+  "lessonNumber": 12,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 9 - Create PT Prep",
+  "unit_num": 9,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Create PT Deep Dive",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 9 - Create PT Prep",
+  "unit_num": 9,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Create PT  - Make a Plan",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 9 - Create PT Prep",
+  "unit_num": 9,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Create PT - Complete the Task (9 hrs)",
+  "duration": 90,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 9 - Create PT Prep",
+  "unit_num": 9,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: Create PT Written Response Mock Exam",
+  "duration": 90,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 9 - Create PT Prep",
+  "unit_num": 9,
+  "lessonNumber": 5,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 1,
+  "lesson_title": "Lesson 1: Algorithms Solve Problems",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 2,
+  "lesson_title": "Lesson 2: Algorithm Efficiency",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 3,
+  "lesson_title": "Lesson 3: Unreasonable Time",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 4,
+  "lesson_title": "Lesson 4: The Limits of Algorithms",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 5,
+  "lesson_title": "Lesson 5: Parallel and Distributed Algorithms",
+  "duration": 45,
+  "assessment": false,
+  "unplugged": true
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 6,
+  "lesson_title": "Lesson 6: Assessment Day",
+  "duration": 45,
+  "assessment": true,
+  "unplugged": null
+ },
+ {
+  "unit_title": "Unit 10 - Algorithms",
+  "unit_num": 10,
+  "lessonNumber": 7,
+  "lesson_title": "End of Unit Survey",
+  "duration": 0,
+  "assessment": false,
+  "unplugged": null
+ }
+]

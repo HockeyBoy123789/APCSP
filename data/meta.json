@@ -1,0 +1,1091 @@
+[
+ {
+  "id": "nwC42foRtaM",
+  "title": "Course Overview - AP Computer Science Principles",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 541,
+  "publishDate": "2022-07-25T14:00:34-07:00",
+  "uploadDate": "2022-07-25T14:00:34-07:00",
+  "description": "AP CSP Overview: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course \n\nWelcome to AP Computer Science Principles! This is a college-level introductory course which will focus both on the curriculum and on studying for the exam itself. I will be utilizing Khan Academy's curriculum for the purposes of this series, though I may expand that in the future. \n\nIf you are here because you are studying AP computer Science, either in my class or otherwise, I hope you'll see these videos as a source of support. \n\nKhan Academy curriculum: https://www.khanacademy.org/computing/ap-computer-science-principles"
+ },
+ {
+  "id": "USCBCmwMCDA",
+  "title": "How Computers Work: Binary & Data",
+  "channel": "CodeAI",
+  "lengthSeconds": 359,
+  "publishDate": "2018-01-30T05:59:39-08:00",
+  "uploadDate": "2018-01-30T05:59:39-08:00",
+  "description": "You'll hear that everything's \"1s and 0s\" in a computer, but what does that mean? Find out how computers represent numbers, words, images, and sound.\n\nStart learning at http://code.org/ \n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Medium https://codeorg.medium.com/\n\nSupport us at http://Code.org/donate\nAnimated Type by Animography\n\nHelp us caption & translate this video!\nhttps://amara.org/v/djLv/"
+ },
+ {
+  "id": "8U35bgCswms",
+  "title": "TEALS: CSP Unit 1 - Digital Information - Lesson 3 - Circle Square Patterns",
+  "channel": "Glyn Dobson",
+  "lengthSeconds": 1292,
+  "publishDate": "2021-01-10T13:15:46-08:00",
+  "uploadDate": "2021-01-10T13:15:46-08:00",
+  "description": ""
+ },
+ {
+  "id": "eJ-xChlgzsE",
+  "title": "AP CSP 2.1 | Binary Numbers Crash Course",
+  "channel": "CyberTeaches",
+  "lengthSeconds": 612,
+  "publishDate": "2026-05-16T20:25:40-07:00",
+  "uploadDate": "2026-05-16T20:25:40-07:00",
+  "description": "\ud83d\udcd8 Study with my book, AP Computer Science Principles: https://www.amazon.com/dp/B0HN67PZWG?tag=kevinwellborn-20\n\nAs an Amazon Associate I earn from qualifying purchases.\n\nPrepare for the AP Computer Science Principles exam with this complete Binary and Algorithm Review! In this video, we break down binary numbers, decimal conversions, overflow errors, RGB color representation, ASCII, loops, lists, algorithms, robot tracing questions, Boolean logic, MOD operations, and common AP CSP multiple-choice tricks students struggle with on the exam.\n\nThis review is designed for AP CSP students who want a simple, step-by-step explanation of the most important concepts from Big Idea 2 and algorithm trac"
+ },
+ {
+  "id": "WXRL3InpLI8",
+  "title": "AP CSP Topic 1.4 part 2.  Code.org Unit 1.5 walkthrough. 5  MCQs! Overflow and rounding errors.",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 787,
+  "publishDate": "2023-09-19T11:44:27-07:00",
+  "uploadDate": "2023-09-19T11:44:27-07:00",
+  "description": "In this video, I walk through what you need to know for the AP CSP exam, Detecting and Correcting Errors  1.4 , as well as Code.org Unit 1.5 (Overflow and rounding errors) classroom activities walkthrough.\n\nFinally, I go over 5 practice questions that might show up on the AP CSP exam.\n\n\n00:10 Introduction\n05:28 code.org walkthrough\n06:40 Practice Questions\n\n\nSlate.com - The Deadly Consequences of Rounding Errors - https://slate.com/technology/2019/10/round-floor-software-errors-stock-market-battlefield.html\n\n\nSuperman III \u2014 Richard Pryor \u2014 half cents and Ferrari scenes\n https://www.youtube.com/watch?v=N7JBXGkBoFc\n\nGangnam Style - https://www.youtube.com/watch?v=9bZkp7q19f0\n\nIsrael's Iron Dom"
+ },
+ {
+  "id": "GMF2Z1EZHXk",
+  "title": "How Computers Store Text - ASCII, Unicode, UTF-8, UTF-16, and UTF-32",
+  "channel": "NoBS Code",
+  "lengthSeconds": 527,
+  "publishDate": "2024-06-15T23:57:59-07:00",
+  "uploadDate": "2024-06-15T23:57:59-07:00",
+  "description": "How do computers store text? In this video you will learn how we encode text into numbers, and decode those back into text. We'll talk about the ASCII and Unicode standards, as well as the UTF-8, UTF-16, and UTF-32 text encodings. The former standards represent characters and codepoints respectively to store text in binary. The UTF-8, UTF-16, and UTF-32 encodings are used to actually represent Unicode codepoints. The video gives concrete examples of how this works.\n\n- Chapters -\n0:00 - Intro\n0:17 - Encoding & Decoding Text\n1:04 - ASCII Explained\n2:11 - Other Encodings\n2:59 - The Unicode Standard\n4:30 - UTF-32 Encoding\n5:00 - UTF-16 Encoding\n6:08 - UTF-8 Encoding\n8:10 - Outro\n\n- Music Credits"
+ },
+ {
+  "id": "yPPv3jeM4xw",
+  "title": "How Images Are Stored In Computers | RGB Matrix & Image Processing Explained",
+  "channel": "AI Depth School",
+  "lengthSeconds": 1107,
+  "publishDate": "2026-01-21T09:30:32-08:00",
+  "uploadDate": "2026-01-21T09:30:32-08:00",
+  "description": "How Images Are Stored In Computers - RGB Matrix & Image Processing Explained\n\nDESCRIPTION:\nEver wondered what's really happening inside a digital image? In this comprehensive tutorial, we'll break down exactly how computers store and process images - from individual pixels to the powerful convolution operations that power modern AI.\n\n\ud83d\udd0d What You'll Learn:\n\u2022 What pixels are and how they work as the building blocks of digital images\n\u2022 The RGB color model and how 3 channels create 16.7 million colors\n\u2022 How images are stored as 3D matrices (Height \u00d7 Width \u00d7 Channels)\n\u2022 Array indexing to access and manipulate individual pixel values\n\u2022 Grayscale conversion using the luminosity formula\n\u2022 Brightness "
+ },
+ {
+  "id": "15aqFQQVBWU",
+  "title": "Images, Pixels and RGB",
+  "channel": "CodeAI",
+  "lengthSeconds": 350,
+  "publishDate": "2015-03-11T15:05:40-07:00",
+  "uploadDate": "2015-03-11T15:05:40-07:00",
+  "description": "Hear Instagram co-founder explain how images are represented in binary, and how image filters work on the inside. This video is part of the Code.org video lecture series for the upcoming Computer Science Principles high school course. For more about the curriculum see http://code.org/educate/csp. For other educational videos from Code.org see http://code.org/educate/videos.\n\nSpecial thanks to Kevin Systrom and Instagram and Piper Hanson photography http://piperhanson.com\n\nHelp us translate into your language: http://code.org/translate/videos\n\nHelp us caption & translate this video!\n\nhttps://amara.org/v/G71r/"
+ },
+ {
+  "id": "VuPKyz_mL7s",
+  "title": "Quick Bit: Pixels and RGB",
+  "channel": "UTeach Computer Science",
+  "lengthSeconds": 159,
+  "publishDate": "2023-05-06T19:52:36-07:00",
+  "uploadDate": "2023-05-06T19:52:36-07:00",
+  "description": "This Quick Bit video was developed by UTeach Computer Science to explore the topic of pixels and RGB color channels.\n\nUTeach Computer Science provides project-based curricula, engaging professional development, and ongoing teacher support for AP CS Principles and AP CS A (College Board\u2013endorsed for both). \n\nLearn more at https://cs.uteach.utexas.edu."
+ },
+ {
+  "id": "mNRdjGm03pI",
+  "title": "Compression, Lossy & Lossless (AP Computer Science Principles Unit 1: Digital Information)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 363,
+  "publishDate": "2023-03-14T19:00:20-07:00",
+  "uploadDate": "2023-03-14T19:00:20-07:00",
+  "description": "Having a smaller file means using up less space, AND it means the file can be moved more quickly! There are a few ways to go about compressing a file, and we discuss them here."
+ },
+ {
+  "id": "RLXC_KSP83s",
+  "title": "Data Compression and Extracting Information | Six Minutes: AP Computer Science Principles, Part 15",
+  "channel": "Six Minutes",
+  "lengthSeconds": 382,
+  "publishDate": "2026-10-15T16:28:08-07:00",
+  "uploadDate": "2026-10-15T16:28:08-07:00",
+  "description": "Six Minutes: AP Computer Science Principles, Part 15: Data Compression and Extracting Information: Lossy vs. lossless trade-offs, 2.2; then Extracting Information\n\nLossless compression restores the original data exactly, while lossy compression shrinks more but loses data permanently. Run-length encoding shows how lossless methods replace repeated values with counts. Then: Topic 2.3: turn a pile of data into an answer by filtering with a loop and IF, then spotting patterns and trends. Includes an original worked example checked two ways and the boundary-word trap.\n\nChapters\n0:00 Introduction\n0:26 Two ways to shrink\n0:50 Which one, when?\n1:20 Worked example\n2:05 The trap\n2:24 Recap\n2:40 Extra"
+ },
+ {
+  "id": "DeTYz7DYpgI",
+  "title": "Lossy Compression",
+  "channel": "CodeHS",
+  "lengthSeconds": 534,
+  "publishDate": "2019-07-16T06:34:48-07:00",
+  "uploadDate": "2019-07-16T06:34:48-07:00",
+  "description": "We learn about lossy compression and implement a lossy text compression algorithm that removes all vowels from given text.\n\nCodeHS is a comprehensive computer science teaching platform for middle schools and high schools. We provide web-based curriculum, teacher tools and resources, and professional development. \n\nSign up for a CodeHS account at codehs.com today and continue through our curriculum!"
+ },
+ {
+  "id": "e1j8jflkBt0",
+  "title": "Copyright: The Basics (AP Computer Science Principles Unit 1: Digital Information)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 476,
+  "publishDate": "2024-06-04T14:39:12-07:00",
+  "uploadDate": "2024-06-04T14:39:12-07:00",
+  "description": "I've been putting off making this video because copyright is such a deep and complex topic. I compromised by making a very basic, surface-level video on the topic and linking to a bunch of videos where you can learn more. So here they are! \n\nHere's the Khan Academy article I've been referecing:\nhttps://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:digital-copyright-and-licenses/a/copyright-drm-and-the-dmca\n\nCrash Course: Copyright Basics\nhttps://www.youtube.com/watch?v=Tamoj84j64I\n\nWhat's Up With Copyright?\nhttps://www.youtube.com/watch?v=S-QI4oL0uF0&list=PLm8a9mXz_9Y6IfeguCKD6ljlw2s9MItjq&index=3\n\nWhat is Copyright?\nhttps://www."
+ },
+ {
+  "id": "pbo8P_46XeM",
+  "title": "Creative Commons (AP Computer Science Principles Unit 1: Digital Information)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 665,
+  "publishDate": "2024-06-14T13:13:07-07:00",
+  "uploadDate": "2024-06-14T13:13:07-07:00",
+  "description": "Creative Commons is a free, simple to use tool to automatically give others permission to use your work in limited ways. In today's video, we'll talk about it a bit!\n\nHere's where you can find more information on Creative Commons Licenses! \nhttps://creativecommons.org/share-your-work/cclicenses/"
+ },
+ {
+  "id": "J-9WF_Pjuvs",
+  "title": "Unit 1 Lesson 12 \u2013 Code.org CS Principles",
+  "channel": "M. Garrott CompSci",
+  "lengthSeconds": 587,
+  "publishDate": "2026-03-19T14:53:04-07:00",
+  "uploadDate": "2026-03-19T14:53:04-07:00",
+  "description": "Mr. Garrott teaches lesson 1.12, walking through the Unit 1 project, and gives some advice for the Unit 1 Assessment.\n\nAP Computer Science Principles\nUnit 1: Digital Information\nLesson 12: Digital Dilemmas Project\nLesson 13: Unit 1 Assessment"
+ },
+ {
+  "id": "hOKrd1BpXu8",
+  "title": "AP CSP Unit 1 Review",
+  "channel": "Janelle Whalen",
+  "lengthSeconds": 1356,
+  "publishDate": "2021-07-15T02:50:14-07:00",
+  "uploadDate": "2021-07-15T02:50:14-07:00",
+  "description": ""
+ },
+ {
+  "id": "hWpJouQI5CI",
+  "title": "Exercises: Binary Numbers (AP Computer Science Principles Unit 1: Digital Information)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 753,
+  "publishDate": "2022-07-30T21:46:56-07:00",
+  "uploadDate": "2022-07-30T21:46:56-07:00",
+  "description": "Today we run through some example problems converting binary numbers! After watching this video, I recommend trying out the problem set with the link below.\n\nExercise set here:\nhttps://www.khanacademy.org/computing/ap-computer-science-principles/x2d2f703b37b450a3:digital-information/x2d2f703b37b450a3:binary-numbers/e/bits-and-binary-exercise"
+ },
+ {
+  "id": "LLJNLuV3Swc",
+  "title": "Exercises: Number Limits, Overflow, and roundoff  (AP Computer Science Principles Unit 1)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 894,
+  "publishDate": "2022-07-31T15:20:36-07:00",
+  "uploadDate": "2022-07-31T15:20:36-07:00",
+  "description": "Today's video discusses the difference between overflow errors and roundoff errors. Essentially, they are the same phenomenon on opposite sides of the decimal point. A number that is too large to be represented results in an overflow error. A number that has too many digits AFTER the decimal point can result in a roundoff error.\n\nYou can find this exercise set here:\nhttps://www.khanacademy.org/computing/ap-computer-science-principles/x2d2f703b37b450a3:digital-information/x2d2f703b37b450a3:number-limits-overflow-and-roundoff/e/number-limits--overflow--and-round-off"
+ },
+ {
+  "id": "5lfxBBOJLp4",
+  "title": "Code.org - Unit 1 Digital Information - Lesson 3: Circle Square Patterns",
+  "channel": "Baltic Bulldogs Activities",
+  "lengthSeconds": 773,
+  "publishDate": "2025-01-13T12:40:31-08:00",
+  "uploadDate": "2025-01-13T12:40:31-08:00",
+  "description": ""
+ },
+ {
+  "id": "ujs7vJtck_E",
+  "title": "Code.org Lesson 3 Circle Square Patterns Activity Guide | Tutorial and Answer | Unit 1 CS Principles",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 266,
+  "publishDate": "2021-08-25T20:16:01-07:00",
+  "uploadDate": "2021-08-25T20:16:01-07:00",
+  "description": "Digital Information, unit 1, is part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle."
+ },
+ {
+  "id": "Dxcc6ycZ73M",
+  "title": "What is the Internet?",
+  "channel": "CodeAI",
+  "lengthSeconds": 224,
+  "publishDate": "2016-06-27T16:56:30-07:00",
+  "uploadDate": "2016-06-27T16:56:30-07:00",
+  "description": "What is the internet?  Short answer: a distributed packet-switched network.  This is the introduction video to the series, \"How the Internet Works\".  Vint Cerf, one of the \"fathers of the internet\" explains the history of how the net and how no one person or organization is really in charge of it.  Watch the rest of the series to learn more: \nhttps://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7\n\nStart learning at http://code.org/ \n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Medium https://codeorg.med"
+ },
+ {
+  "id": "3QhU9jd03a0",
+  "title": "Computer Networks: Crash Course Computer Science #28",
+  "channel": "CrashCourse",
+  "lengthSeconds": 739,
+  "publishDate": "2017-09-13T13:55:06-07:00",
+  "uploadDate": "2017-09-13T13:55:06-07:00",
+  "description": "Today we start a three episode arc on the rise of a global telecommunications network that changed the world forever. We\u2019re going to begin with computer networks, and how they grew from small groups of connected computers on LAN networks to eventually larger worldwide networks like the ARPANET and even the Internet we know today. We'll also discuss how many technologies like Ethernet, MAC addresses, IP Addresses, packet switching, network switches, and TCP/IP were implemented to new problems as our computers became ever-increasingly connected. Next week we\u2019ll talk about the Internet, and the week after the World Wide Web!\n\nPre-order our limited edition Crash Course: Computer Science Floppy D"
+ },
+ {
+  "id": "lPPYc_sFLKo",
+  "title": "IP Addresses Explained: What They Are and How They're Assigned",
+  "channel": "NetWork From Home",
+  "lengthSeconds": 670,
+  "publishDate": "2025-09-11T06:01:36-07:00",
+  "uploadDate": "2025-09-11T06:01:36-07:00",
+  "description": "In this video, I explain what IP addresses are and how they are used when connecting devices to the internet.\r\n\r\nCheck out some of my previous videos that are related to this one:\r\nStatic IP Setup: How to Assign an IP Address to a Device: https://youtu.be/syB-Ros8j8Y\n\nPublic vs Private IP Addresses: What's the Difference?: https://youtu.be/jxv517fMRvg\r\n\nFor more content on similar topics, check out my YouTube channel: https://www.youtube.com/channel/UCs-hXDMwqs1Ri9Yh9QRgaqQ\r\n\r\nIf you would like to read about other ways to improve your home network, check out my blog:\r\nhttps://www.network-from-home.com\r\n\r\n1:11 Where do IP addresses come from?\r\n2:21 What do IP addresses look like?\r\n4:46 How do"
+ },
+ {
+  "id": "q3VN9g0EZdA",
+  "title": "Redundancy and Fault Tolerance (AP Computer Science Principles, Unit 2)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 624,
+  "publishDate": "2026-07-21T06:00:32-07:00",
+  "uploadDate": "2026-07-21T06:00:32-07:00",
+  "description": "As usual, here are links to more resources! \n\nARTICLES: \n\nKhan Academy Article on the topic: \nhttps://www.khanacademy.org/computing/ap-computer-science-principles/the-internet/x2d2f703b37b450a3:routing-with-redundancy/a/redundancy-fault-tolerance\n\nInternet back at full strength in Tonga after 2 week blackout\nhttps://www.rnz.co.nz/news/pacific/381580/internet-back-at-full-strength-in-tonga-after-2-week-blackout\n\nTonga signs 15-year satellite deal after January cable outage\nhttps://www.zdnet.com/article/tonga-signs-15-year-satellite-deal-after-january-cable-outage/\n\nNetwork Redundancy and Why It Matters\nhttps://www.auvik.com/franklyit/blog/simple-network-redundancy/\n\nVIDEOS: \n\nhttps://www.yout"
+ },
+ {
+  "id": "CtHxYQeUrpk",
+  "title": "AP CSP U2 L4 Routers and Redundancy",
+  "channel": "Janelle Whalen",
+  "lengthSeconds": 670,
+  "publishDate": "2020-09-21T12:08:01-07:00",
+  "uploadDate": "2020-09-21T12:08:01-07:00",
+  "description": ""
+ },
+ {
+  "id": "KjD3KANH-xc",
+  "title": "How Does the Internet Work? | Data Packets",
+  "channel": "PowerCert Animated Videos",
+  "lengthSeconds": 335,
+  "publishDate": "2024-09-16T05:35:08-07:00",
+  "uploadDate": "2024-09-16T05:35:08-07:00",
+  "description": "Visit http://brilliant.org/PowerCert/ for a free 30 day trial and a 20% discount on the annual premium subscription\n\nHow does the internet work?  This is an animated video explaining how data packets work on the internet."
+ },
+ {
+  "id": "aD_yi5VjF78",
+  "title": "Packet, routers, and reliability | Internet 101 | Computer Science | Khan Academy",
+  "channel": "Khan Academy",
+  "lengthSeconds": 385,
+  "publishDate": "2019-04-23T13:46:13-07:00",
+  "uploadDate": "2019-04-23T13:46:13-07:00",
+  "description": "Spotify engineer Lynn Root and Vint Cerf, Father of the Internet, explain how information on the Internet is broken down into packets, and how to ensure that information is reliably received.\n\nWatch the next lesson: https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-http-and-html?utm_source=YT&utm_medium=Desc&utm_campaign=computerscience\n\nMissed the previous lesson? https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-ip-addresses-and-dns?utm_source=YT&utm_medium=Desc&utm_campaign=computerscience\n\nComputer Science on Khan Academy: Learn select topics from computer science - algorithms "
+ },
+ {
+  "id": "AlkDbnbv7dk",
+  "title": "What happens when you type a URL into your browser?",
+  "channel": "ByteByteGo",
+  "lengthSeconds": 320,
+  "publishDate": "2022-06-14T06:00:05-07:00",
+  "uploadDate": "2022-06-14T06:00:05-07:00",
+  "description": "Checkout our bestselling System Design Interview books: https://amzn.to/3HqGozy\n\nSubscribe to our YouTube channel: https://bit.ly/3aZpbkz\n\nOther things we made:\nWeekly system design newsletter (10-min read): https://bit.ly/3tfAlYD\nDigital version of System Design Interview books: https://bit.ly/3mlDSk9\nTwitter: https://bit.ly/3HqEz5G\nLinkedIn:  https://bit.ly/39h22JK\n\nABOUT US: \nCovering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series."
+ },
+ {
+  "id": "X22o-pC33CE",
+  "title": "Unit 2 Lesson 7 \u2013 Code.org CS Principles",
+  "channel": "M. Garrott CompSci",
+  "lengthSeconds": 899,
+  "publishDate": "2026-08-28T17:49:19-07:00",
+  "uploadDate": "2026-08-28T17:49:19-07:00",
+  "description": "Mr. Garrott walks through the Unit 2 \"Internet Dilemmas\" project on lesson 2.7, explaining the instructions and giving helpful advice.\n\nAP Computer Science Principles\nUnit 2: The Internet\nLesson 7: Project: Internet Dilemmas"
+ },
+ {
+  "id": "6gp40d-YLzQ",
+  "title": "APCSP Internet Dilemma Project",
+  "channel": "Nicholas Baribeau",
+  "lengthSeconds": 1000,
+  "publishDate": "2024-10-02T14:27:24-07:00",
+  "uploadDate": "2024-10-02T14:27:24-07:00",
+  "description": ""
+ },
+ {
+  "id": "cICKX0EzSTE",
+  "title": "Exercises: Computer Networks (AP Computer Science Principles Unit 2: The Internet)",
+  "channel": "Professor Cunningham",
+  "lengthSeconds": 351,
+  "publishDate": "2024-07-11T07:00:29-07:00",
+  "uploadDate": "2024-07-11T07:00:29-07:00",
+  "description": "Toda's video features a few exercises from Khan Academy, and you can try them out yourself by clicking the link below! \n\nhttps://www.khanacademy.org/computing/ap-computer-science-principles/the-internet/x2d2f703b37b450a3:connecting-networks/e/computer-networks"
+ },
+ {
+  "id": "inhKi1RsOv8",
+  "title": "AP CS Principles Exam Review - The Internet",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 739,
+  "publishDate": "2022-09-24T22:51:19-07:00",
+  "uploadDate": "2022-09-24T22:51:19-07:00",
+  "description": "This video goes over a couple of exam problems about The Internet to help you prepare for the AP Computer Science Principles exam.\n\nSections about the Internet will usually focus on open protocols, TCP/IP, the World Wide Web, networks and fault-tolerance. Networks and fault-tolerance will be covered on a different video.\n\nIntro/Outro Music: Friendly Neighbors\n\nChapters:\n0:00 Intro\n0:10 The Internet\n1:38 Internet vs WWW\n2:38 Internet vs WWW (part 2)\n2:56 IP (Internet Protocol)\n3:33 IPv4 vs IPv6\n4:58 IETF\n6:16 Open Protocols\n7:59 Open Protocols (part 2)\n8:45 TCP\n10:36 Bandwidth\n\nIntro/Outro Music: Friendly Neighbors"
+ },
+ {
+  "id": "Z-BO6IYTgJg",
+  "title": "What Is User Interface (UI)?",
+  "channel": "Codecademy",
+  "lengthSeconds": 175,
+  "publishDate": "2022-08-16T06:53:30-07:00",
+  "uploadDate": "2022-08-16T06:53:30-07:00",
+  "description": "User interfaces (UIs) are what allow us to interact with and navigate through our favorite programs and devices. Every time you click a button on a website or swipe to a different screen, you're engaging with UI.\n\nHaving a good UI is critical to a technology's success. Most people wouldn't stick with an app or device if it were clumsy or awkward to use. That's why UI design is so important and often tied into UX (user experience).\n\nIn the video above, we'll dive deeper into UIs and UI design. You'll learn about some common examples of UIs, the difference between good and bad UIs, and how qualities like responsiveness and consistency play a role in keeping users happy.\n\nWant to learn more abo"
+ },
+ {
+  "id": "-EoTeD4mSNU",
+  "title": "CS Principles: Intro to Design Mode in App Lab",
+  "channel": "CodeAI",
+  "lengthSeconds": 378,
+  "publishDate": "2015-11-18T12:09:53-08:00",
+  "uploadDate": "2015-11-18T12:09:53-08:00",
+  "description": "Start building your own shareable app here http://code.org/applab\n\nStart learning at http://code.org/ \n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on Tumblr https://blog.code.org \n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Google+ https://google.com/+codeorg\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/61Pe/"
+ },
+ {
+  "id": "btGE5E-FQjw",
+  "title": "Code.org AP CSP U3L3 Design an App P1",
+  "channel": "Samuel Stafford",
+  "lengthSeconds": 458,
+  "publishDate": "2024-10-02T08:21:04-07:00",
+  "uploadDate": "2024-10-02T08:21:04-07:00",
+  "description": "Part 1 walk through of the planning guide for Code.org's AP CSP U3L3 Design an App"
+ },
+ {
+  "id": "EGQh5SZctaE",
+  "title": "What is a programming language?",
+  "channel": "Codecademy",
+  "lengthSeconds": 201,
+  "publishDate": "2020-06-24T12:06:02-07:00",
+  "uploadDate": "2020-06-24T12:06:02-07:00",
+  "description": "When beginning your coding journey, you may find yourself asking, \u201cWhat exactly is a programming language?\u201d In this video, we explain.\n\nInterested in learning how to code, but unsure where to start? Check out our Code Foundations Path for a basic introduction to the world of code: https://bit.ly/2VeGoM5\n\n- - - - - \nJoin the millions learning to code with Codecademy.\nLearn to code: https://j.mp/3ewBSRK\nCheck out our full course catalog: https://j.mp/3t0Q1fo"
+ },
+ {
+  "id": "xlbRL5eOgkI",
+  "title": "App Lab: Introduction",
+  "channel": "CodeAI",
+  "lengthSeconds": 474,
+  "publishDate": "2016-03-03T16:36:05-08:00",
+  "uploadDate": "2016-03-03T16:36:05-08:00",
+  "description": "New to App Lab?  Start here!   App Lab lets you build sharable apps using javascript.  This video covers the basic layout and beginning instructions to App Lab including the Toolbox, Design Mode, linking buttons, the Debugging console, and sharing.  \nIf you're new to programming, start here: https://studio.code.org/s/cspunit3  \nLearn more about App Lab here: https://code.org/educate/applab\n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on Tumblr https://blog.code.org \n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Google+ https://google.com/+codeorg\n\nHelp us caption "
+ },
+ {
+  "id": "AzOPfL3k6bI",
+  "title": "AP CSP - Debugging",
+  "channel": "Cary Riina",
+  "lengthSeconds": 470,
+  "publishDate": "2020-12-08T05:33:24-08:00",
+  "uploadDate": "2020-12-08T05:33:24-08:00",
+  "description": ""
+ },
+ {
+  "id": "Sy3PYZ7QLhc",
+  "title": "Code.org Computer Science Principles Unit 3: Project - Designing an App",
+  "channel": "David Decker",
+  "lengthSeconds": 2596,
+  "publishDate": "2025-02-06T09:00:38-08:00",
+  "uploadDate": "2025-02-06T09:00:38-08:00",
+  "description": "Code.org Computer Science Principles Unit 3: Project - Designing an App from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "V_dVki4yhFg",
+  "title": "AP Computer Science Principles Unit 3 Practice Questions (projectstem)",
+  "channel": "Emily's Study Guide",
+  "lengthSeconds": 1316,
+  "publishDate": "2024-12-10T13:14:36-08:00",
+  "uploadDate": "2024-12-10T13:14:36-08:00",
+  "description": "RECOMMENDED TO SPEED THE VIDEO UP (if you can take that...lol) \n\nThis is a review for the Unit 3: Data representation for AP Computer Science Principles on Projectstem.org.\n\nhope this helped, thanks for watching!\nquestion 1: 0:21\nquestion 2: 5:32\nquestion 3: 7:21\nquestion 4: 11:22\nquestion 5: 13:09\nquestion 6: 14:16\nquestion 7: 19:41\n\n\nhttps://projectstem.org\n\nThe questions I went through are on the unit 3 review quiz.\nQuestion #1, #4, #11, #12, #15, #17, and #19 (video questions was not in order this order)\n\nhope this helped! thanks for watching \ud83e\udd72(tears of joy)"
+ },
+ {
+  "id": "Ae6z3Ui611k",
+  "title": "How to build and design apps in Code.org! AP Computer Science Principles",
+  "channel": "Coding with Goutham!",
+  "lengthSeconds": 581,
+  "publishDate": "2024-11-24T09:04:15-08:00",
+  "uploadDate": "2024-11-24T09:04:15-08:00",
+  "description": "#computerscience #trending #2024 #apclasses #apclass10 #education #lesson #walkthrough #code #codeorg #hourofcode #apcsp #libraries #javascript #app #appdevelopment"
+ },
+ {
+  "id": "VBnvj8jiGro",
+  "title": "AP CSP Topic 3.1  - Variables and Assignments -  Explanations and 5 MCQs!",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 332,
+  "publishDate": "2025-05-28T17:42:42-07:00",
+  "uploadDate": "2025-05-28T17:42:42-07:00",
+  "description": "In this video, I explain AP CSP Topic 3.1 (Variables and assignments) and go over 5 practice MCQs!  This topic is the first topic where I use the AP CSP Pseudocode notation.\n \n\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nMusic: \n\nGreenery - Silent Partner https://www.youtube.com/watch?v=qeIkbW49B6A\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n#apcsp"
+ },
+ {
+  "id": "G6X4jByg41I",
+  "title": "Code.org Computer Science Principles Unit 4: Lesson 2 - Variables Investigate",
+  "channel": "David Decker",
+  "lengthSeconds": 1830,
+  "publishDate": "2025-02-06T11:39:55-08:00",
+  "uploadDate": "2025-02-06T11:39:55-08:00",
+  "description": "Code.org Computer Science Principles Unit 4: Lesson 2 - Variables Investigate from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "2DLWC7DMPx0",
+  "title": "Learning JavaScript using App Lab. Part 3: Variables and numbers",
+  "channel": "Zyad gewely",
+  "lengthSeconds": 507,
+  "publishDate": "2020-06-07T10:02:16-07:00",
+  "uploadDate": "2020-06-07T10:02:16-07:00",
+  "description": "Our challenge for today is to create an organization app.\n\nlinks to videos that might help you:\nhttps://youtu.be/UG7Q1Sr0_F0 \nhttps://youtu.be/luR8Al5CjEw\n\nAll rights are reserved"
+ },
+ {
+  "id": "kln8rMybTQE",
+  "title": "How to create an app variables, random number generators and if statements - Episode 6 AppLab",
+  "channel": "My Computer Science Teacher",
+  "lengthSeconds": 740,
+  "publishDate": "2024-02-15T15:26:45-08:00",
+  "uploadDate": "2024-02-15T15:26:45-08:00",
+  "description": "Link to next video: https://youtu.be/MKyBOTKQkiM\nLink to channel: UCYWMvI3JjLBf9tjQkeJaFiA \n\nIn this series you will learn how to design and program an app in Code.org AppLab with  @MyComputerScienceTeacher  . This episode teaches you how to make an app that uses variables, random number generators, if statements, onclick events, labels, images and buttons"
+ },
+ {
+  "id": "9mNglegl-xk",
+  "title": "Variables I App lab code.org I Tutorial-4",
+  "channel": "Eduler",
+  "lengthSeconds": 313,
+  "publishDate": "2020-12-30T01:49:00-08:00",
+  "uploadDate": "2020-12-30T01:49:00-08:00",
+  "description": "Variables in App lab in Code.org - Tutorial 4\n\nSupport:\nTelegram - https://t.me/official_eduler\nGmail- official.eduler@gmail.com\n\n\nTags:\nHow to make app in code.org\ncode.org app lab\ngame lab\nsprite lab\nhow to convert code.org projects to apk file\ncode.org app lab full course\napp lab code.org realtime mobile apps applications"
+ },
+ {
+  "id": "Xor2E5v_RB4",
+  "title": "AP CSP 3.6 | Conditionals Explained",
+  "channel": "CyberTeaches",
+  "lengthSeconds": 722,
+  "publishDate": "2026-11-08T17:00:20-08:00",
+  "uploadDate": "2026-11-08T17:00:20-08:00",
+  "description": "\ud83d\udcd8 Study with my book, the AP CSP Study Guide (735 practice questions, all explained): https://www.amazon.com/dp/B0HN67PZWG?tag=kevinwellborn-20\n\u25b6\ufe0f Full AP CSP course in order: https://www.youtube.com/playlist?list=PLQGjMvGO2D8s05VBtoa90aUgXZwmwpkzq\n\nUnit 3, Lesson 6: Conditionals (book pages 134\u2013143)\n\nHow programs choose a path: selection without code, the IF statement, IF-ELSE with two exclusive paths, the \"last true IF wins\" exam trap, a worked trace, and how to write a conditional from a description. Then try three hard AP-style questions from my study guide, with the trap and an exam tip for each.\n\n\u23f1\ufe0f Chapters\n0:00 This lesson in my book\n0:10 Learning goals\n0:24 One picture: a fork in th"
+ },
+ {
+  "id": "cmmc-h3347c",
+  "title": "AP CS Principles Exam Review - Booleans and Conditionals",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 1305,
+  "publishDate": "2022-11-12T17:41:05-08:00",
+  "uploadDate": "2022-11-12T17:41:05-08:00",
+  "description": "This video goes over a couple of exam problems about Booleans and Conditionals to help you prepare for the AP Computer Science Principles exam.\n\nAlong with loops (and lists to a small degree), questions about conditionals are the bread-and-butter of programming material in the AP CSP exam. That is, they are quite common, and most programming questions will revolve around this topic in some way or another. So let's get some practice with them!\n\nChapters:\n0:00 Intro\n0:10 Overview\n1:17 Boolean Expressions\n1:59 Conditionals\n3:35 Boolean Flowchart\n5:00 Multiple Conditionals\n8:48 Conditional Ranges\n11:43 Logic Gates (Circuits)\n14:29 Nested Conditionals\n15:38 Unreachable Conditional\n17:37 Condition"
+ },
+ {
+  "id": "IsG4Xd6LlsM",
+  "title": "JavaScript if else (tutorial)",
+  "channel": "Programming with Mosh",
+  "lengthSeconds": 381,
+  "publishDate": "2018-05-15T15:27:15-07:00",
+  "uploadDate": "2018-05-15T15:27:15-07:00",
+  "description": "JavaScript if else made simple. \n\n\ud83d\udd25Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2M1sp4B\n\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
+ },
+ {
+  "id": "XxZonD-S54U",
+  "title": "if else if and Conditional Logic  Tutorial with Answers Code.org CS Principles",
+  "channel": "M.Sajjad jaffery",
+  "lengthSeconds": 1181,
+  "publishDate": "2020-07-23T05:17:24-07:00",
+  "uploadDate": "2020-07-23T05:17:24-07:00",
+  "description": "\"if-else-if\" and Conditional Logic, is from Building Apps, unit of Code.org's C.S. Principles course, often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning principles of computer science. In this video I walk through step-by-step how to get the right answer for this puzzle. Tutorials for other lessons is linked below."
+ },
+ {
+  "id": "rTU79XM8V1Q",
+  "title": "Code.org Computer Science Principles Unit 4: Lesson 8 - Conditionals Make",
+  "channel": "David Decker",
+  "lengthSeconds": 1692,
+  "publishDate": "2025-04-24T10:56:14-07:00",
+  "uploadDate": "2025-04-24T10:56:14-07:00",
+  "description": "Code.org Computer Science Principles Unit 4: Lesson 8 - Conditionals Make from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "yPWQfa4CHbw",
+  "title": "CS Principles: Defining and Calling Functions",
+  "channel": "CodeAI",
+  "lengthSeconds": 275,
+  "publishDate": "2015-10-02T13:27:16-07:00",
+  "uploadDate": "2015-10-02T13:27:16-07:00",
+  "description": "Start learning at http://code.org/ \n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on Tumblr https://blog.code.org \n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Google+ https://google.com/+codeorg\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/61Q4/"
+ },
+ {
+  "id": "k7JiE97-V0",
+  "title": null,
+  "channel": null,
+  "lengthSeconds": 0,
+  "publishDate": "",
+  "uploadDate": "",
+  "description": ""
+ },
+ {
+  "id": "qRX1eio_HKE",
+  "title": "JavaScript/App Lab Functions Returns Intro",
+  "channel": "sagefireace",
+  "lengthSeconds": 356,
+  "publishDate": "2021-01-27T11:55:36-08:00",
+  "uploadDate": "2021-01-27T11:55:36-08:00",
+  "description": "In this video we will introduce returning values from functions in App Lab."
+ },
+ {
+  "id": "T5mFiXHqTmo",
+  "title": "Code.org Computer Science Principles Unit 4: Lesson 11 - Functions Make",
+  "channel": "David Decker",
+  "lengthSeconds": 2533,
+  "publishDate": "2025-11-10T05:11:27-08:00",
+  "uploadDate": "2025-11-10T05:11:27-08:00",
+  "description": "Code.org Computer Science Principles Unit 4: Lesson 11 - Functions Make from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "ASE01GgeIdc",
+  "title": "How to Build a Decision-Making App in Code.org's App Lab",
+  "channel": "Aaron Wissner",
+  "lengthSeconds": 1999,
+  "publishDate": "2024-12-13T08:48:24-08:00",
+  "uploadDate": "2024-12-13T08:48:24-08:00",
+  "description": "Discover how to create a fun and functional app using Code.org's App Lab! In this step-by-step tutorial, you'll learn to build a simple \"Adopt a Pet\" app that helps users decide which pet to adopt based on their preferences. From designing input fields for pet size and budget to implementing variables, functions, and controls, this guide covers all the basics of app development in Code.org.  \n\n\ud83d\udd39 **What You'll Learn:**  \n- Setting up a project in Code.org's App Lab  \n- Designing user-friendly screens with input fields and labels  \n- Using variables and logic to process user data  \n- Displaying dynamic outputs based on user choices  \n\n\ud83d\udd39 **App Features:**  \n- Input pet size (small or large) and"
+ },
+ {
+  "id": "7SdE7wz3_1s",
+  "title": "Code.org Computer Science Principles Unit 4: Lesson 10 - Part 2 - Functions Practice",
+  "channel": "David Decker",
+  "lengthSeconds": 2918,
+  "publishDate": "2025-11-05T09:40:03-08:00",
+  "uploadDate": "2025-11-05T09:40:03-08:00",
+  "description": "Code.org Computer Science Principles Unit 4: Lesson 10 - Part 2 - Functions Practice from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "QCtbWup8Bk4",
+  "title": "Computer Science Principles Unit 5: Lesson 1 -  Learning From Data",
+  "channel": "David Decker",
+  "lengthSeconds": 747,
+  "publishDate": "2026-01-20T11:36:16-08:00",
+  "uploadDate": "2026-01-20T11:36:16-08:00",
+  "description": "Code.org Computer Science Principles Unit 5: Lesson 1 -  Learning From Data from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "fAIRGtC1yJE",
+  "title": "Computer Science Principles Unit 5: Lesson 2 -  Exploring One Column",
+  "channel": "David Decker",
+  "lengthSeconds": 1264,
+  "publishDate": "2026-01-22T08:03:37-08:00",
+  "uploadDate": "2026-01-22T08:03:37-08:00",
+  "description": "Code.org Computer Science Principles Unit 5: Lesson 2 -  Exploring One Column from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "vN0WY5MaDz4",
+  "title": "Computer Science Principles Unit 5: Lesson 3  - Filtering and Cleaning Data",
+  "channel": "David Decker",
+  "lengthSeconds": 1719,
+  "publishDate": "2026-01-28T10:35:53-08:00",
+  "uploadDate": "2026-01-28T10:35:53-08:00",
+  "description": "Code.org Computer Science Principles Unit 5: Lesson 3  - Filtering and Cleaning Data from the Code.org curriculum. Updated with the latest for 2025 and beyond!"
+ },
+ {
+  "id": "JSw3x0wYbog",
+  "title": "Computer Science Principles Unit 5: Lesson 4 - Exploring Two Columns",
+  "channel": "David Decker",
+  "lengthSeconds": 1851,
+  "publishDate": "2026-01-29T05:32:08-08:00",
+  "uploadDate": "2026-01-29T05:32:08-08:00",
+  "description": "Code.org Computer Science Principles Unit 5: Lesson 4 - Exploring Two Columns from the Code.org curriculum. Updated with the latest for 2026 and beyond!"
+ },
+ {
+  "id": "bAyrObl7TYE",
+  "title": "Big Data In 5 Minutes | What Is Big Data?| Big Data Analytics | Big Data Tutorial | Simplilearn",
+  "channel": "Simplilearn",
+  "lengthSeconds": 312,
+  "publishDate": "2019-12-10T06:30:02-08:00",
+  "uploadDate": "2019-12-10T06:30:02-08:00",
+  "description": "\ud83d\udd25Micrososft Azure - Data Analyst Course - https://www.simplilearn.com/data-analyst-certification-course?utm_campaign=bAyrObl7TYE&utm_medium=DescriptionFF&utm_source=Youtube\n\ud83d\udd25IITM Pravartak - Professional Certificate Program in AI-Powered Data Analytics - https://www.simplilearn.com/iitm-ai-data-analytics-program?utm_campaign=bAyrObl7TYE&utm_medium=DescriptionFF&utm_source=Youtube\n\ud83d\udd25IIT Kanpur - Professional Certificate Course in AI-Powered Data Analytics - https://www.simplilearn.com/iitk-professional-certificate-course-data-analytics?utm_campaign=bAyrObl7TYE&utm_medium=DescriptionFF&utm_source=Youtube\n\ud83d\udd25Michigan Engineering Professional Certificate in AI and Machine Learning - https://www.sim"
+ },
+ {
+  "id": "1su_Ceqj5E4",
+  "title": "What is crowdsourcing?",
+  "channel": "Harvard Online",
+  "lengthSeconds": 54,
+  "publishDate": "2022-03-07T12:18:24-08:00",
+  "uploadDate": "2022-03-07T12:18:24-08:00",
+  "description": "How does crowdsourcing fit into Open Innovation? Bring the outside world into your organization and grow your team.  \n\nLearn more about Open Innovation:  https://harvardx.link/inno"
+ },
+ {
+  "id": "IJ8HwMCxbJA",
+  "title": "AP CSP Topic 5.3 - Computing Bias -  Explanation and 7 practice MCQs !",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 540,
+  "publishDate": "2025-03-21T08:13:13-07:00",
+  "uploadDate": "2025-03-21T08:13:13-07:00",
+  "description": "In this video, I walk through what you need to know for the AP CSP exam, Bias, Topic 5.3 (code.org Unit 5 lesson 7)\n\n\nFinally, I go over 7 practice questions that might show up on the AP CSP exam.\n\n\n00:05 Introduction\n02:10 Practice Questions\n\nMusic:\nGreenery by Silent Partner: https://youtu.be/kBXQZMmiA4s?si=P0ZskgW5bfdISEde\nLicense: You're free to use this song and monetize your videos.\n\n#apcsp"
+ },
+ {
+  "id": "gV0_raKR2UQ",
+  "title": "Algorithmic Bias and Fairness: Crash Course AI #18",
+  "channel": "CrashCourse",
+  "lengthSeconds": 680,
+  "publishDate": "2019-12-13T14:31:18-08:00",
+  "uploadDate": "2019-12-13T14:31:18-08:00",
+  "description": "Check out Jabril's collab with \"Above the Noise\" about Deepfakes: https://www.youtube.com/watch?v=Ro8b69VeL9U\nToday, we're going to talk about five common types of algorithmic bias we should pay attention to: data that reflects existing biases, unbalanced classes in training data, data that doesn't capture the right value, data that is amplified by feedback loops, and malicious data. Now bias itself isn't necessarily a terrible thing, our brains often use it to take shortcuts by finding patterns, but bias can become a problem if we don't acknowledge exceptions to patterns or if we allow it to discriminate. \n\nCrash Course is produced in association with PBS Digital Studios: \nhttps://www.youtu"
+ },
+ {
+  "id": "JA7cPuCxjjw",
+  "title": "Computer Science Principles Unit 5: Lesson 8  - Tell A Data Story",
+  "channel": "David Decker",
+  "lengthSeconds": 896,
+  "publishDate": "2026-02-12T11:10:56-08:00",
+  "uploadDate": "2026-02-12T11:10:56-08:00",
+  "description": "Code.org Computer Science Principles Unit 5: Lesson 8  - Tell A Data Story from the Code.org curriculum. Updated with the latest for 2026 and beyond!"
+ },
+ {
+  "id": "qu9J-EdsNAs",
+  "title": "AP CS Principles Exam Review - Data",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 971,
+  "publishDate": "2023-04-02T16:46:46-07:00",
+  "uploadDate": "2023-04-02T16:46:46-07:00",
+  "description": "This video goes over a couple of exam problems about topics in data, to help you prepare for the AP Computer Science Principles exam.\n\nData is a broad topic in AP CSP, but these questions primarily deal with questions about interpreting data, charts, correlation, cleaning/filter datasets, data consistency, and metadata.\n\nChapters:\n0:00 Intro\n0:10 Interpreting Data\n1:26 Data Consistency\n2:49 Data Consistency 2\n3:57 Interpreting Data 2 \n6:17 Interpreting Charts\n9:28 Graph Correlation\n11:06 Filter Expressions\n13:26 Metadata\n14:50 Metadata 2\n\n\nIntro/Outro Music: Friendly Neighbors"
+ },
+ {
+  "id": "tmFyuN97OFI",
+  "title": "AP Computer Science Principles (AP CSP) Exam Review: Big Idea 5",
+  "channel": "Computer Science Coach",
+  "lengthSeconds": 741,
+  "publishDate": "2025-05-13T09:35:40-07:00",
+  "uploadDate": "2025-05-13T09:35:40-07:00",
+  "description": ""
+ },
+ {
+  "id": "TTq40OoLoZs",
+  "title": "AP CSP U6 L1 - Lists Explore",
+  "channel": "Misty Whitehead",
+  "lengthSeconds": 1795,
+  "publishDate": "2025-03-07T06:10:04-08:00",
+  "uploadDate": "2025-03-07T06:10:04-08:00",
+  "description": "For Mrs. Whitehead's Class"
+ },
+ {
+  "id": "Cuy4iUqNjIU",
+  "title": "AP CSP Topic 3.10  - Lists -  Explanations and 5 MCQs!",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 700,
+  "publishDate": "2026-03-10T18:19:04-07:00",
+  "uploadDate": "2026-03-10T18:19:04-07:00",
+  "description": "In this video, I explain AP CSP Topic 3.10 (Lists) and go over practice MCQs!  \n \n\nCORRECTIONS:\n07:19 Answer A should also be broken.  Answer A ends up with an index out of range error.  B and C are the classic mistakes.  My bad, sorry!\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nMusic: \n\nGreenery - Silent Partner https://www.youtube.com/watch?v=qeIkbW49B6A\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n#apcsp"
+ },
+ {
+  "id": "gqKVHN22CRI",
+  "title": "Computer Science Principles Unit 6: Lesson 2 - Lists Investigate",
+  "channel": "David Decker",
+  "lengthSeconds": 4271,
+  "publishDate": "2026-04-02T11:43:59-07:00",
+  "uploadDate": "2026-04-02T11:43:59-07:00",
+  "description": "Computer Science Principles Unit 6: Lesson 2 - Lists Investigatefrom the Code.org curriculum. Updated with the latest for 2026 and beyond!"
+ },
+ {
+  "id": "2tAODBo3anU",
+  "title": "Computer Science Principles Unit 6: Lesson 3 - Path B - Build a Playlist",
+  "channel": "David Decker",
+  "lengthSeconds": 4077,
+  "publishDate": "2026-04-29T05:08:24-07:00",
+  "uploadDate": "2026-04-29T05:08:24-07:00",
+  "description": "Computer Science Principles Unit 6: Lesson 3 - Path B - Build a Playlist from the Code.org curriculum. Updated with the latest for 2026 and beyond!"
+ },
+ {
+  "id": "pefkfot2QRU",
+  "title": "CSP - Unit 6: Lesson 3 - Part 1 - Lists Practice Alternative",
+  "channel": "David Decker",
+  "lengthSeconds": 4857,
+  "publishDate": "2026-04-17T05:15:13-07:00",
+  "uploadDate": "2026-04-17T05:15:13-07:00",
+  "description": "Computer Science Principles Unit 6: Lesson 3 - Part 1 - Lists Practice Alternative from the Code.org curriculum. Updated with the latest for 2026 and beyond!"
+ },
+ {
+  "id": "z_OOZ2gaY-s",
+  "title": "Code.org Lesson 4 Lists Make a Reminder App | Tutorial with Answers | Unit 5 CS Principles Complete",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 1079,
+  "publishDate": "2020-09-27T19:47:00-07:00",
+  "uploadDate": "2020-09-27T19:47:00-07:00",
+  "description": "Lists Make a Reminder App (RemindMe) is lesson 4 of unit 6, Lists, Loops, and Traversals, part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle.\n\nActivity Guide Tutorial: https://youtu.be/Ln3Qum_HZcQ\nUnit Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKdgJMsglJeEYIynDpthpOZB\nApp Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKd5nFE0WpC9SNFC9hyI9KuN"
+ },
+ {
+  "id": "G8hfAk4PfOM",
+  "title": "CS Principles: Using Loops",
+  "channel": "CodeAI",
+  "lengthSeconds": 367,
+  "publishDate": "2015-11-18T12:05:33-08:00",
+  "uploadDate": "2015-11-18T12:05:33-08:00",
+  "description": "Jerome Holman, Software Engineer at Microsoft, explains Loops and how to use them in App Lab.  \n\nStart building your own shareable app here http://code.org/applab\n\nStart learning at http://code.org/ \n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on Tumblr https://blog.code.org \n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Google+ https://google.com/+codeorg\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/61QA/"
+ },
+ {
+  "id": "9exT2oq8-fo",
+  "title": "For Loop - App Lab (Code.org)",
+  "channel": "Bill Barnum",
+  "lengthSeconds": 286,
+  "publishDate": "2021-12-27T06:05:07-08:00",
+  "uploadDate": "2021-12-27T06:05:07-08:00",
+  "description": "Learn to use a For Loop in App Lab (Code.org).\n\nAP Computer Science Principles. APCSP\n\n\ud83d\udd25 Subscribe To Get More Tutorials: http://bit.ly/36H70sy \ud83d\udd25\n\n\ud83d\udda5\ufe0f App Lab Tutorials: http://bit.ly/AppLabTutorials \ud83d\udda5\ufe0f\n\nCiting Code For The AP Computer Science Principles Create Task: https://youtu.be/afiFQR7o8l0\n\n#AppLab #Codeorg #APCSP"
+ },
+ {
+  "id": "s9wW2PpJsmQ",
+  "title": "JavaScript Loops",
+  "channel": "Programming with Mosh",
+  "lengthSeconds": 409,
+  "publishDate": "2018-05-15T15:32:25-07:00",
+  "uploadDate": "2018-05-15T15:32:25-07:00",
+  "description": "JavaScript loops made simple. \n\n\ud83d\udd25Get the COMPLETE course (83% OFF - LIMITED TIME ONLY): http://bit.ly/2M1sp4B\n\n\nSubscribe for more videos: \nhttps://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA?sub_confirmation=1\n\nWant to learn more from me? Check out my blog and courses: \n\nhttp://programmingwithmosh.com \nhttps://www.facebook.com/programmingwithmosh/\nhttps://twitter.com/moshhamedani"
+ },
+ {
+  "id": "0dgQu9zEA5o",
+  "title": "JavaScript Loops Explained: for, while & for...of",
+  "channel": "Code Launchpad",
+  "lengthSeconds": 368,
+  "publishDate": "2026-10-28T01:14:15-07:00",
+  "uploadDate": "2026-10-28T01:14:15-07:00",
+  "description": "Learn JavaScript loops: for, while and for...of in plain words, with real-life examples and animated code. Would you type the same line a hundred times? We teach JavaScript to repeat itself: for loops that count push-ups and rocket countdowns, while loops that empty a bag of chips, and the bug that freezes your page.\n\nWhat you'll learn:\n\u2705 Loops repeat work for you\n\u2705 for has a start, a check and a step\n\u2705 Count up, down, or in jumps\n\u2705 while runs until its check is false\n\u2705 Always change something, or it runs forever\n\nBy the end: you can repeat work with for and while loops, count up, down and in steps, and avoid infinite loops and off-by-one mistakes.\n\n\ud83d\udcda Full JavaScript course (30 episodes, fre"
+ },
+ {
+  "id": "B-yYUaC5GxE",
+  "title": "Code.org Lesson 8 Loops Lock Screen Maker App | Tutorial with Answers | Unit 6 CS Principles",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 1461,
+  "publishDate": "2020-09-13T18:49:14-07:00",
+  "uploadDate": "2020-09-13T18:49:14-07:00",
+  "description": "Loops Make a Loops Lock Screen Maker App is lesson 8 of unit 6, Lists, Loops, and Traversals, part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle.\n\nApp tutorial: https://youtu.be/B-yYUaC5GxE\nLesson Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKdtUU-yaTUx1sqd0WOh5LJZ\nUnit 6 Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKdgJMsglJeEYIynDpthpOZB"
+ },
+ {
+  "id": "RQ6GJt9f2vg",
+  "title": "CS Principles: Processing Lists",
+  "channel": "CodeAI",
+  "lengthSeconds": 262,
+  "publishDate": "2016-02-01T15:23:43-08:00",
+  "uploadDate": "2016-02-01T15:23:43-08:00",
+  "description": "Start learning at http://code.org/ \n\nStay in touch with us!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on Tumblr https://blog.code.org \n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Google+ https://google.com/+codeorg\n\nHelp us caption & translate this video!\n\nhttp://amara.org/v/61Ov/"
+ },
+ {
+  "id": "IvG_NXSMElc",
+  "title": "AP CSP Unit 6 Lesson 10 - Traversals Investigate*",
+  "channel": "STEAM & CS with Mrs. W.",
+  "lengthSeconds": 972,
+  "publishDate": "2025-05-22T12:14:34-07:00",
+  "uploadDate": "2025-05-22T12:14:34-07:00",
+  "description": "Make sure to take notes during the code.org videos because it will give you examples that will be helpful in future projects.\n\n*recorded for when the teacher is out and not teaching in person."
+ },
+ {
+  "id": "5TP97iZwksc",
+  "title": "Code.org Lesson 10.1 Traversals Investigate | Tutorial and Answer | Unit 6 CS Principles + CodeAI",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 532,
+  "publishDate": "2020-09-13T18:49:43-07:00",
+  "uploadDate": "2020-09-13T18:49:43-07:00",
+  "description": "Traversals Investigate is lesson 10 of unit 6, Lists, Loops, and Traversals, is part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle.\n\nLesson Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKeKltpsH1IxpIt4qObE66RH\nUnit 6 Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKdgJMsglJeEYIynDpthpOZB"
+ },
+ {
+  "id": "d2u7l1_DJTw",
+  "title": "AP CSP U6 L11 - Traversals Practice",
+  "channel": "Misty Whitehead",
+  "lengthSeconds": 722,
+  "publishDate": "2025-03-19T18:17:00-07:00",
+  "uploadDate": "2025-03-19T18:17:00-07:00",
+  "description": "For Mrs. Whitehead's Class"
+ },
+ {
+  "id": "pk32rysRQAg",
+  "title": "Code.org Lesson 12 Traversals Make a Random Forecaster App | Answer Tutorial | Unit 6 CS Principles",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 1089,
+  "publishDate": "2020-09-23T19:34:41-07:00",
+  "uploadDate": "2020-09-23T19:34:41-07:00",
+  "description": "Traversals Make a Random Forecaster App is lesson 12 of unit 6, Lists, Loops, and Traversals, is part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle and build an awesome app. \n\nActivity Guide Tutorial: https://youtu.be/kP_nqMSRnE8\nLesson Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKdo6UM0RFXGDADk_iqjAbha\nUnit 6 Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKdgJMsglJeEYIynDpthpOZB"
+ },
+ {
+  "id": "ChYHvfktgCE",
+  "title": "Code.org Hackathon App - Complete Project Tutorial - All Parts | Unit 6 CSP + CodeAI + CodeAI",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 2632,
+  "publishDate": "2020-09-23T19:34:25-07:00",
+  "uploadDate": "2020-09-23T19:34:25-07:00",
+  "description": "Get ready, it is HACKATHON time! In this tutorial, I walk you through a complete example project. Pick your own topic and dataset, make your own awesome app along with me.  Don't forget to write code comments before your functions. Lets go!\n\nHackathon Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKeT0ynNxtboPoNJLoj8WFxY\n\nLists, Loops, and Traversals is unit 6 of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle."
+ },
+ {
+  "id": "SMmuT7Eccrg",
+  "title": "AP CS Principles Exam Review - Lists and Iteration",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 1479,
+  "publishDate": "2023-03-26T21:57:56-07:00",
+  "uploadDate": "2023-03-26T21:57:56-07:00",
+  "description": "This video goes over a couple of exam problems about lists, loops and iteration to help you prepare for the AP Computer Science Principles exam.\n\nLike conditionals, these types of problems are often the bread-and-butter of the AP CSP exam; expect several problems like these!\n\nChapters:\n0:00 Intro\n0:10 List Iteration\n1:45 List Iteration 2\n3:28 Counting List Values\n5:21 Indices\n8:31 Iteration Ordering\n11:53 Library Function\n13:37 Comparing Index Pairs\n18:52 Removing Duplicates\n\n\nIntro/Outro Music: Friendly Neighbors"
+ },
+ {
+  "id": "1iAvhS8niM8",
+  "title": "Learn JavaScript Episode #16: Functions - Parameters and Return Values",
+  "channel": "Joseph Delgadillo",
+  "lengthSeconds": 455,
+  "publishDate": "2017-07-06T20:24:48-07:00",
+  "uploadDate": "2017-07-06T20:24:48-07:00",
+  "description": "Get The Learn to Code Course Bundle!\nhttps://josephdelgadillo.com/product/learn-to-code-course-bundle/\n\nSubscribe: https://www.youtube.com/c/JosephDelgadillo?&sub_confirmation=1\n\nIn the 16th episode of this JavaScript tutorial series we will talk about a bit more about functions, and we're going to pass parameters into a function. When you call a function you can supply data to the function, and then that data is used in the function to do whatever it is you're trying to do."
+ },
+ {
+  "id": "s_8t69m7tcw",
+  "title": "Parameters and Abstraction - Block Code - App Lab (Code.org)",
+  "channel": "Bill Barnum",
+  "lengthSeconds": 425,
+  "publishDate": "2022-01-02T16:13:13-08:00",
+  "uploadDate": "2022-01-02T16:13:13-08:00",
+  "description": "Learn to use parameters to customize function behaviors in App Lab (Code.org). Parameters allow you to reduce the complexity of code. \n\nText Code Video: https://youtu.be/QNyzYzeH2bw\n\n\ud83d\udd25 Subscribe To Get More Tutorials: http://bit.ly/36H70sy \ud83d\udd25\n\n\ud83d\udda5\ufe0f App Lab Tutorials: http://bit.ly/AppLabTutorials \ud83d\udda5\ufe0f\n\nCiting Code For The AP Computer Science Principles Create Task: https://youtu.be/fn2U3HhlVwM\n\n#AppLab #Codeorg #APCSP"
+ },
+ {
+  "id": "8t-HxetA4ns",
+  "title": "Code.org Lesson 3.9A Parameters and Return Practice | Answer Tutorial | CS Principles Unit 7",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 273,
+  "publishDate": "2026-01-05T20:30:03-08:00",
+  "uploadDate": "2026-01-05T20:30:03-08:00",
+  "description": "Parameters and Return Practice is lesson 3 of unit 7, Parameters and Return Practice, is part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle.\n\nLesson Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKcFaaBr9507KK4BKOdlehtL\nUnit 7 Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKeInkGv3nxC09v_U8pIQEOm"
+ },
+ {
+  "id": "XFcgoBRHl-c",
+  "title": "AP CSP Unit 7 Lesson 4 - Parameters & Return Make",
+  "channel": "STEAM & CS with Mrs. W.",
+  "lengthSeconds": 859,
+  "publishDate": "2025-05-22T12:19:20-07:00",
+  "uploadDate": "2025-05-22T12:19:20-07:00",
+  "description": ""
+ },
+ {
+  "id": "JSo85ORXKqQ",
+  "title": "What is a Library? Using Libraries in Code Tutorial | C Library Examples",
+  "channel": "blondiebytes",
+  "lengthSeconds": 348,
+  "publishDate": "2018-04-25T11:30:01-07:00",
+  "uploadDate": "2018-04-25T11:30:01-07:00",
+  "description": "In this tutorial, we'll be talking about what a library is and how they are useful. We will be looking at some examples in C, including the C Standard I/O Library and the C Standard Math Library, but these concepts can be applied to many different languages. Thank you for watching and happy coding!\n\nNeed some new tech gadgets or a new charger? Buy from my Amazon Storefront https://www.amazon.com/shop/blondiebytes\n\nAlso check out...\nWhat is a Framework? https://youtu.be/HXqBlAywTjU\nWhat is a JSON Object? https://youtu.be/nlYiOcMNzyQ\nWhat is an API? https://youtu.be/T74OdSCBJfw\nWhat are API Keys? https://youtu.be/1yFggyk--Zo\nUsing APIs with Postman https://youtu.be/0LFKxiATLNQ\n\nCheck out my co"
+ },
+ {
+  "id": "OJv3HeTP7fY",
+  "title": "Libraries in App Lab",
+  "channel": "CodeAI",
+  "lengthSeconds": 173,
+  "publishDate": "2021-07-14T12:02:55-07:00",
+  "uploadDate": "2021-07-14T12:02:55-07:00",
+  "description": "Start learning at code.org. \n\nStay in touch with us on social media!\n\u2022 on Twitter https://twitter.com/codeorg\n\u2022 on Facebook https://www.facebook.com/Code.org\n\u2022 on Instagram https://instagram.com/codeorg\n\u2022 on LinkedIn https://www.linkedin.com/company/code-org\n\u2022 on Medium https://medium.com/@codeorg\n\u2022 Help make our work possible with a donation at http://code.org/donate"
+ },
+ {
+  "id": "QkGytEFaFw0",
+  "title": "JavaScript/App Lab Functions w Parameters and Returns with Libraries",
+  "channel": "sagefireace",
+  "lengthSeconds": 838,
+  "publishDate": "2021-02-04T15:20:06-08:00",
+  "uploadDate": "2021-02-04T15:20:06-08:00",
+  "description": "In this video we will introduce using libraries in App Lab by creating new functions with parameters and returns and sharing the library."
+ },
+ {
+  "id": "1joEzBtosrY",
+  "title": "Code.org Project Lesson 8 Make a Library | Tutorial with Answers | Full App | Unit 7 CS Principles",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 1045,
+  "publishDate": "2021-02-27T19:33:38-08:00",
+  "uploadDate": "2021-02-27T19:33:38-08:00",
+  "description": "Parameters, Return, and Libraries is unit 7 of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle. A playlist of tutorials for the Make a Library Project is linked below.\n\nCode.org Project Lesson 8 Make a Library | Tutorial with Answers | Unit 7 C.S. Principles\n\nLesson Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKftHiDpWlwDhd32SoZQsjuh\nUnit 7 Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKeInkGv3nxC09v_U8pIQEOm"
+ },
+ {
+  "id": "foW_aiN5lMM",
+  "title": "Code.org Lesson 3.7 Parameters and Return Practice | Tutorial with Answers | Unit 7 2025-2026",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 612,
+  "publishDate": "2020-09-23T19:34:39-07:00",
+  "uploadDate": "2020-09-23T19:34:39-07:00",
+  "description": "Parameters and Return Practice is lesson 3 of unit 7, Parameters and Return Practice, is part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle.\n\nLesson Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKcFaaBr9507KK4BKOdlehtL\nUnit 7 Playlist: https://www.youtube.com/playlist?list=PLbsvRhEyGkKeInkGv3nxC09v_U8pIQEOm"
+ },
+ {
+  "id": "H-nGL9VJruM",
+  "title": "Code.org Lesson 7.2 Libraries Practice | Tutorial with Answers | Unit 7 C.S. Principles (7.3 2020)",
+  "channel": "Mr. Kaiser",
+  "lengthSeconds": 347,
+  "publishDate": "2020-09-23T19:34:25-07:00",
+  "uploadDate": "2020-09-23T19:34:25-07:00",
+  "description": "Libraries Practice is lesson 7 of unit 7, Parameters, Return, and Libraries, is part of Code.org's C.S. Principles course. The course is often used in AP Computer Science classrooms. Each part of the course challenges students to accomplish a new task while learning the principles of computer science. In this video, I walk through the step-by-step how to get the right answer for this puzzle.\n\nLesson Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKew2uDn1MJEJQlmjbwtmbP6\nUnit 7 Playlist: https://youtube.com/playlist?list=PLbsvRhEyGkKeInkGv3nxC09v_U8pIQEOm"
+ },
+ {
+  "id": "WW2TPO01hIA",
+  "title": "AP CSP 5.1 | Beneficial & Harmful Effects of Computing Innovations",
+  "channel": "CyberTeaches",
+  "lengthSeconds": 445,
+  "publishDate": "2026-02-26T09:03:33-08:00",
+  "uploadDate": "2026-02-26T09:03:33-08:00",
+  "description": "\ud83d\udcd8 Study with my book, AP Computer Science Principles: https://www.amazon.com/dp/B0HN67PZWG?tag=kevinwellborn-20\n\nAs an Amazon Associate I earn from qualifying purchases.\n\nTechnology connects us, informs us, and helps us solve complex problems \u2014 but it also creates new risks.\n\nIn this video, we break down the beneficial and harmful effects of computing innovations. From data collection and personalization to automation, intelligent systems, and digital communication, you\u2019ll learn how technology impacts everyday life.\n\nBy the end, you\u2019ll know how to critically evaluate any digital system \u2014 asking the right questions about privacy, security, efficiency, and responsibility.\n\nTechnology isn\u2019t jus"
+ },
+ {
+  "id": "FwBKZOcn4yI",
+  "title": "Personally Identifiable Information (PII) | Internet safety | Khan Academy",
+  "channel": "Khan Academy",
+  "lengthSeconds": 114,
+  "publishDate": "2022-04-07T13:08:34-07:00",
+  "uploadDate": "2022-04-07T13:08:34-07:00",
+  "description": "Personally Identifiable Information (PII) includes things that can identify you directly, such as your social security number, to things that may help identify you indirectly, such as your phone number or birthday. If that information falls into the wrong hands, you could be tracked without your knowledge or even have your identity stolen."
+ },
+ {
+  "id": "nwOnJndyAeU",
+  "title": "AP CS Principles Exam Review - Privacy and Security",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 691,
+  "publishDate": "2023-04-07T15:57:31-07:00",
+  "uploadDate": "2023-04-07T15:57:31-07:00",
+  "description": "This video goes over a couple of exam problems about topics in privacy and security, to help you prepare for the AP Computer Science Principles exam.\n\nPrivacy and security are topics which are covered less in 2023 than they were in the past, but there is still a bunch of stuff to know. In general they cover issues like data privacy (eg, PII), cybersecurity, cookies, passwords, and encryption. I will cover encryption in a different video.\n\nChapters:\n0:00 Into\n0:10 Privacy\n2:46 Cookies\n5:14 Data Privacy\n6:46 Multifactor Authentication\n7:42 Phishing\n8:59 Keyloggers (Malware)\n9:51 Rogue Access Points\n10:27 Password Strength\n\nIntro/Outro Music: Friendly Neighbors"
+ },
+ {
+  "id": "slyr4tmYPAU",
+  "title": "AP CSP U10 L3 Data Policies and Privacy",
+  "channel": "Janelle Whalen",
+  "lengthSeconds": 553,
+  "publishDate": "2021-02-02T11:12:05-08:00",
+  "uploadDate": "2021-02-02T11:12:05-08:00",
+  "description": ""
+ },
+ {
+  "id": "4mj4BahsZwc",
+  "title": "AP CSP U10 L1 Project Innovation Simulation Part 1",
+  "channel": "Janelle Whalen",
+  "lengthSeconds": 965,
+  "publishDate": "2021-02-02T10:37:42-08:00",
+  "uploadDate": "2021-02-02T10:37:42-08:00",
+  "description": ""
+ },
+ {
+  "id": "8wCTBWAAwvs",
+  "title": "AP CSP 5.6 | Safe Computing: Cybersecurity Traps You\u2019re Falling For",
+  "channel": "CyberTeaches",
+  "lengthSeconds": 427,
+  "publishDate": "2026-02-24T11:42:56-08:00",
+  "uploadDate": "2026-02-24T11:42:56-08:00",
+  "description": "\ud83d\udcd8 Study with my book, AP Computer Science Principles: https://www.amazon.com/dp/B0HN67PZWG?tag=kevinwellborn-20\n\nAs an Amazon Associate I earn from qualifying purchases.\n\nAll my books: https://www.amazon.com/author/kevinwellborn\n\nWhat is phishing?\nDoes incognito mode actually make you invisible?\nWhat\u2019s the difference between symmetric and public key encryption?\nAnd why is multifactor authentication so important?\n\nIn this AP Computer Science Principles lesson, we break down Safe Computing (Unit 5.6) in a clear, real-world way so you can understand \u2014 not just memorize \u2014 cybersecurity concepts.\n\nThis video covers:\n\n\u2022 Phishing and social engineering\n\u2022 Incognito mode vs network visibility\n\u2022 Cooki"
+ },
+ {
+  "id": "6-nghp5Refc",
+  "title": "Quick Bit: Security Risks",
+  "channel": "UTeach Computer Science",
+  "lengthSeconds": 185,
+  "publishDate": "2023-05-08T13:42:24-07:00",
+  "uploadDate": "2023-05-08T13:42:24-07:00",
+  "description": "This Quick Bit video was developed by UTeach Computer Science to explore the topic of security risks in computing.\n\nUTeach Computer Science provides project-based curricula, engaging professional development, and ongoing teacher support for AP CS Principles and AP CS A (College Board\u2013endorsed for both). \n\nLearn more at https://cs.uteach.utexas.edu."
+ },
+ {
+  "id": "6-JjHa-qLPk",
+  "title": "Encryption and public keys | Internet 101 | Computer Science | Khan Academy",
+  "channel": "Khan Academy",
+  "lengthSeconds": 400,
+  "publishDate": "2019-04-23T13:46:31-07:00",
+  "uploadDate": "2019-04-23T13:46:31-07:00",
+  "description": "Mia Epner, who works on security for a US national intelligence agency, explains how cryptography allows for the secure transfer of data online. This video explains 256-bit encryption, public and private keys, SSL & TLS and HTTPS. \n\nWatch the next lesson: https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-cybersecurity-and-crime?utm_source=YT&utm_medium=Desc&utm_campaign=computerscience\n\nMissed the previous lesson? https://www.khanacademy.org/computing/computer-science/internet-intro/internet-works-intro/v/the-internet-http-and-html?utm_source=YT&utm_medium=Desc&utm_campaign=computerscience\n\nComputer Science on Khan Academy: Learn select"
+ },
+ {
+  "id": "Xs2EEVs9wlQ",
+  "title": "AP CSP Topic 5.6  - Safe Computing! -  Explanations and 10 MCQs!",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 1342,
+  "publishDate": "2026-07-25T08:05:07-07:00",
+  "uploadDate": "2026-07-25T08:05:07-07:00",
+  "description": "In this video, I explain AP CSP Topic 5.6 (Safe computing!) and go over practice MCQs!  \n \n\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nMusic: \n\nGreenery - Silent Partner https://www.youtube.com/watch?v=qeIkbW49B6A\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n#apcsp"
+ },
+ {
+  "id": "_Er2lyoY0vk",
+  "title": "AP CSP Big Idea 5: Impact of Computing (5.1\u20135.6) \u2014 Who Does It Help, Who Does It Hurt?",
+  "channel": "AP Exams Made Simple",
+  "lengthSeconds": 777,
+  "publishDate": "2026-10-05T11:28:47-07:00",
+  "uploadDate": "2026-10-05T11:28:47-07:00",
+  "description": "What if the same app that video-calls your best friend\u2026 could also track where you go every day? Keep going with Short 5.1 \u2014 the specificity trap: https://www.youtube.com/shorts/fuvy9UBYmCA\n\nThat's Big Idea 5: Impact of Computing \u2014 the heaviest-hitting idea on the AP CSP exam (21\u201326% of your score), from the digital divide to computing bias to staying safe online, all in one chapter.\n\nAP Exams Made Simple turns the AP Computer Science Principles framework into clear, exam-focused videos \u2014 chapters, Shorts, and exam-style practice that actually stick, so you can walk in ready for the 5.\n\n0:00 Hook \u2014 every innovation cuts both ways\n0:30 Roadmap \u2014 six topics, a fifth of your exam\n1:00 5.1 Benef"
+ },
+ {
+  "id": "XguBNASFz0g",
+  "title": "Nozomio | AP Computer Science Principles | Unit 8 Review",
+  "channel": "Nozomio",
+  "lengthSeconds": 608,
+  "publishDate": "2024-12-11T09:31:53-08:00",
+  "uploadDate": "2024-12-11T09:31:53-08:00",
+  "description": "Get ready for a quick and comprehensive review of Unit 8 in AP Computer Science Principles! In this Nozomio lesson, we\u2019ll cover key concepts, problem-solving techniques, and tips to ace your AP exams. Perfect for students looking to reinforce their understanding and boost their confidence. Stay tuned for more AP CSP content soon!\n\nDisclaimer: We are not affiliated with the College Board. This video is created as an independent educational resource to help students with their AP CSP studies.\n\n\ud83d\udc49 Don't forget to subscribe for more content on computer science, coding, and tech entrepreneurship!\n\n#APCSP #ComputerSciencePrinciples #Nozomio #APReview #APCSPReview #CodingBasics #LearnToCode #ExamPre"
+ },
+ {
+  "id": "fY9gxDjXkBs",
+  "title": "AP CS Principles Create PT Part 1 - Full Project Guide",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 1321,
+  "publishDate": "2025-03-04T22:55:52-08:00",
+  "uploadDate": "2025-03-04T22:55:52-08:00",
+  "description": "After getting many requests about it, I put together a guide for the AP CSP Create PT Project. This video includes many helpful tips about the Create PT, and even goes through a full example of a project from start to finish!\n\nIn a Part 2 follow-up video I will demonstrate how you can answer the new Free-Response Questions (FRQ) using the code I wrote during this video.\n\nOfficial AP CSP Create PT Specification: https://apcentral.collegeboard.org/media/pdf/ap-csp-student-task-directions.pdf\n\n0:00 Intro\n1:31 Create PT Summary\n3:48 Creating The New Project\n4:14 Building The UI\n6:20 Writing The Code\n19:17 Personalized Project Reference"
+ },
+ {
+  "id": "MulQ7h1jgqc",
+  "title": "The Create Task Rule Nobody Explains Clearly \u2014 AP CSP",
+  "channel": "AP Exams Made Simple",
+  "lengthSeconds": 407,
+  "publishDate": "2026-10-07T18:41:47-07:00",
+  "uploadDate": "2026-10-07T18:41:47-07:00",
+  "description": "Your Create Task program can run perfectly and still lose the point \u2014 because the official checklist doesn't grade effort, it grades requirements. This video walks through the exact Create Task program requirements in plain English: the input and output rules, the list requirement, and the student-developed procedure with a parameter, sequencing, selection, and iteration.\n\nYou'll also see the two traps that catch the most students: a list that is stored but never really used, and a procedure with no parameter (or a parameter that changes nothing). Both fail the official requirements \u2014 and both are fixable in minutes once you see them.\n\nPause-test included: can you spot the two failures in th"
+ },
+ {
+  "id": "wMz4o3y68XA",
+  "title": "AP CSP Prompt #2c example and talk-through",
+  "channel": "TClark",
+  "lengthSeconds": 2034,
+  "publishDate": "2026-11-17T12:39:33-08:00",
+  "uploadDate": "2026-11-17T12:39:33-08:00",
+  "description": "Create Task Resources:\nhttps://sites.google.com/gilroyunified.org/computerscience/principles-ap/create-task\n\nSample: \nhttps://sites.google.com/gilroyunified.org/computerscience/principles-ap/create-task/sample-responses/tclark-samples/vocab-cards"
+ },
+ {
+  "id": "2mGzsh9fu2o",
+  "title": "AP CSP Create Task: Score All 6 Rubric Points (Complete Guide)",
+  "channel": "APScore5",
+  "lengthSeconds": 292,
+  "publishDate": "2026-05-21T15:29:12-07:00",
+  "uploadDate": "2026-05-21T15:29:12-07:00",
+  "description": "The AP CSP Create Task counts directly toward your final AP score, and most students lose points on the same three things every year. This 2.5-minute breakdown covers the 6 required elements your program must have, how each rubric row is scored, how to pick a project that actually demos in 60 seconds, the 3 mistakes that cost points (parameter theater, decorative collections, weak testing), and the submission strategy that prevents zeros.\n\n\ud83c\udfaf Full Create Task planning template + AP CSP Unit 1 practice \u2192 https://www.apscore5.com/ap-computer-science-principles/create-task-guide\n\nWhat we cover:\n\u2705 The 3 submissions (code, video, PPR)\n\u2705 The 6 required program elements\n\u2705 How each rubric row is scor"
+ },
+ {
+  "id": "AE9ILLJZbro",
+  "title": "2022 APCSP Performance Task Webinar",
+  "channel": "Cobi Computer Science",
+  "lengthSeconds": 2253,
+  "publishDate": "2022-02-17T09:51:52-08:00",
+  "uploadDate": "2022-02-17T09:51:52-08:00",
+  "description": "2022 APCSP Performance Task Webinar\nAre you aware that the Scoring Notes for the AP CSP Create Task Rubric were updated after the 2021 reading and posted this past fall? Learn all about it from an experienced Reader. \n\nTable of Contents:\n\n00:00 - Introduction\n02:11 -  AP CS Principles Grading\n09:51 - Performance Task Rubric Rows\n19:09 - Avoid these mistakes!\n24:38 - 2022 Changes\n\nWatch 2021 Rubric Review here: https://youtu.be/DqctIYbSbv8 Get more practice: https://gocobi.com/\nGet the ultimate AP CS Principles study guide: https://www.amazon.com/dp/B0CT3D8V72"
+ },
+ {
+  "id": "Beh2SbRqtTU",
+  "title": "AP CSP Topic 3.9  - Developing Algorithms! -  Explanations and 6 MCQs!",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 469,
+  "publishDate": "2026-04-26T17:34:33-07:00",
+  "uploadDate": "2026-04-26T17:34:33-07:00",
+  "description": "In this video, I explain AP CSP Topic 3.9 (Developing Algorithms!) and go over practice MCQs!  \n \nCORRECTIONS:\n6:52 Should be question 5 (labelled question 6)\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\nMusic: \n\nGreenery - Silent Partner https://www.youtube.com/watch?v=qeIkbW49B6A\n\n\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\u2013\n\n#apcsp"
+ },
+ {
+  "id": "oq5zZjkTboo",
+  "title": "AP CS Principles Exam Review - Binary Search",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 513,
+  "publishDate": "2023-03-19T18:17:39-07:00",
+  "uploadDate": "2023-03-19T18:17:39-07:00",
+  "description": "This video goes over a couple of exam problems about Binary Search to help you prepare for the AP Computer Science Principles exam.\n\nThis is a relatively new topic in the AP CSP curriculum, and it's covered very briefly overall. However, there isn't much you need to know about for this one.\n\nChapters:\n0:00 Intro\n0:10 Binary Search Requirements\n0:58 Sorted Lists\n1:48 Binary vs Linear Search\n4:05 Linear Search\n4:43 Binary Search Efficiency\n6:07 Binary Search Efficiency 2\n6:37 Binary Search Efficiency 3\n\n\nIntro/Outro Music: Friendly Neighbors"
+ },
+ {
+  "id": "aPT9fOAXGSU",
+  "title": "AP CSP Topic 3.17 - Reasonable/unreasonable - Code.org Unit 10.3 walkthrough - PLUS 6 practice MCQs!",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 682,
+  "publishDate": "2023-11-10T13:33:57-08:00",
+  "uploadDate": "2023-11-10T13:33:57-08:00",
+  "description": "In this video, I walk through what you need to know for the AP CSP exam, Algorithmic Efficiency 3.17, as well as Code.org Unit 10.3(Unreasonable problems) classroom activities walkthrough.\n\n\nFinally, I go over 6 practice questions that might show up on the AP CSP exam.\n\n\n00:05 Introduction\n03:20 code.org walkthrough\n05:55 Practice Questions\n\n\nMusic:\nGreenery by Silent Partner: https://youtu.be/kBXQZMmiA4s?si=P0ZskgW5bfdISEde\nLicense: You're free to use this song and monetize your videos.\n\n#apcsp"
+ },
+ {
+  "id": "O_FeCYdvFxs",
+  "title": "AP CSP 3 18 1 Undecidable Problems",
+  "channel": "Code Curious",
+  "lengthSeconds": 322,
+  "publishDate": "2025-04-03T10:56:35-07:00",
+  "uploadDate": "2025-04-03T10:56:35-07:00",
+  "description": "presented by Mrs. Julia Alano, introduces the concept of undecidable problems in computer science. The video clarifies the distinction between decidable problems, which always have a yes or no algorithmic solution for any input, and undecidable problems, where such a universal algorithm does not exist. A key example provided is the halting problem, which questions whether any given computer program with specific inputs will eventually stop or run indefinitely. The lesson emphasizes that for undecidable problems, no single algorithm can consistently determine a yes or no answer across all possible inputs."
+ },
+ {
+  "id": "VyHbd6sx5Po",
+  "title": "The Halting Problem: The Unsolvable Problem",
+  "channel": "lydia",
+  "lengthSeconds": 254,
+  "publishDate": "2020-04-22T02:39:59-07:00",
+  "uploadDate": "2020-04-22T02:39:59-07:00",
+  "description": "One of the most influential problems and proofs in computer science, first introduced and proved impossible to solve by Alan Turing. The video provides the idea of this incredibly clever proof. I highly recommend anyone who is comfortable with mathematical proofs to read the formal proof to the problem (look at additional resources below for information).\n\nAlso, the video does not cover this, but the significance of this unsolvable problem cannot be understated. By logically proving that the Halting Problem is impossible to solve, this means that there is an entire class of problems that can never be solved through computing (i.e. undecidable problems). For example, the Halting Problem tells"
+ },
+ {
+  "id": "o36O93rpCmk",
+  "title": "AP CSP Topic 4.3 - Sequential, Parallel, and Distributed computing -  8 practice MCQs !",
+  "channel": "Dr_Wu",
+  "lengthSeconds": 604,
+  "publishDate": "2025-05-05T18:01:47-07:00",
+  "uploadDate": "2025-05-05T18:01:47-07:00",
+  "description": "In this video, I walk through what you need to know for the AP CSP exam, Sequential, Parallel, and Distributed computing, Topic 4.3 \n\n\nFinally, I go over 8 practice questions that might show up on the AP CSP exam.\n\n\n00:05 Introduction\n05:44 Practice Questions\n\nMusic:\nGreenery by Silent Partner: https://youtu.be/kBXQZMmiA4s?si=P0ZskgW5bfdISEde\nLicense: You're free to use this song and monetize your videos.\n\n#apcsp"
+ },
+ {
+  "id": "5Efa7wnDhKE",
+  "title": "AP CS Principles Exam Review - Algorithmic Efficiency and Undecidable Problems",
+  "channel": "Flavio Kuperman",
+  "lengthSeconds": 1652,
+  "publishDate": "2023-03-18T20:12:27-07:00",
+  "uploadDate": "2023-03-18T20:12:27-07:00",
+  "description": "This video goes over a couple of exam problems about Algorithmic Efficiency and Undecidable Problems to help you prepare for the AP Computer Science Principles exam. \n\nThis also starts by covering these concepts in some depth on their own. You can skip directly to 6:52 if you want to jump straight to the practice problems!\n\nIn my opinion, this is the most difficult part of the current AP CSP curriculum; it's often math-heavy and some of the topics are quite complex. However, once you get the basics here, you should be fine, since it doesn't cover these topics in too much depth, despite their complexity.\n\nPardon the audio issues in the first 7 minutes; it gets better after that section!\n\nChap"
+ },
+ {
+  "id": "lcpU5Tz5XLQ",
+  "title": "AP CSP Exam Review | Algorithmic Efficiency",
+  "channel": "Computer Science Coach",
+  "lengthSeconds": 538,
+  "publishDate": "2024-04-25T14:07:05-07:00",
+  "uploadDate": "2024-04-25T14:07:05-07:00",
+  "description": "This is the first of a series of AP Computer Science Principles Exam review videos that I will make for the AP Exam. Please comment to let me know which topics I should focus on for the next couple of videos and I'll try to get those out as soon as I can. I'm also looking into hosting some live tutoring/review sessions. Please share/like/subscribe and comment if you would be interested in that format."
+ },
+ {
+  "id": "rL8X2mlNHPM",
+  "title": "Intro to Algorithms: Crash Course Computer Science #13",
+  "channel": "CrashCourse",
+  "lengthSeconds": 704,
+  "publishDate": "2017-05-24T14:58:07-07:00",
+  "uploadDate": "2017-05-24T14:58:07-07:00",
+  "description": "Algorithms are the sets of steps necessary to complete computation - they are at the heart of what our devices actually do. And this isn\u2019t a new concept. Since the development of math itself algorithms have been needed to help us complete tasks more efficiently, but today we\u2019re going to take a look a couple modern computing problems like sorting and graph search, and show how we\u2019ve made them more efficient so you can more easily find cheap airfare or map directions to Winterfell... or like a restaurant or something.  \n\nPs. Have you had the chance to play the Grace Hopper game we made in episode 12. Check it out here! http://thoughtcafe.ca/hopper/   \n\nCORRECTION: \nIn the pseudocode for select"
+ }
+]
