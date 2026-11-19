@@ -2,7 +2,7 @@
 
 Handoff file for continuing work in this folder. **Update this file before the session runs out of context.**
 
-Last updated: 2026-11-17
+Last updated: 2026-11-18
 
 ## What this project is
 
@@ -19,8 +19,20 @@ The deliverable so far is a lesson-by-lesson map of YouTube videos that explain 
 | Report (raw) | `notes/csp-2025-video-map.md` (single table + notes) |
 | Report (formatted) | `notes/csp-2025-video-guide.md` — verified: 97 rows, 88 URLs, 0 metadata diffs |
 | Answer sheets | `notes/answers/` — 10 per-unit files: code, lesson, video, clickable link |
-| Reference solutions | `src/` — 4 lessons (U6L4, U6L8, U6L12, U7L8) extracted from answer-key videos |
-| Commits | `225335d` scaffold, `e86ea3c` video map, plus formatting commit |
+| Reference solutions | `src/` — 7 lessons (U3L7, U4L12, U6L4, U6L8, U6L12, U6L13, U7L8) extracted from answer-key videos |
+| Commits | `225335d` scaffold, `e86ea3c` video map, `6d133a4` App Lab solutions + OCR pipeline, plus this session's project solutions |
+
+## This week (2026-11-12 → 2026-11-18)
+
+- Finished the end-of-unit app projects that were still missing from `src/`:
+  **U3 L7 Coding Quiz**, **U4 L12 Fortune Teller**, and **U6 L13 Hackathon**
+  (AP CS Test Taker Demographics example).
+- Each new folder has a `README.md` (task, design-element IDs, key ideas, caveats) and
+  a commented App Lab text-mode `app.js`; all three pass `node --check`.
+- Updated `src/README.md` with the new folders and refreshed this handoff file.
+- Extracted the code from Mr. Kaiser walkthroughs frame by frame (OCR + direct PNG
+  frames), because the originally mapped U3 L7 / U4 L12 videos were not usable answer
+  keys.
 
 ## How the curriculum was confirmed
 
@@ -86,8 +98,10 @@ Any pre-2024 video labelled Unit 5/6/8/9/10 must be re-mapped, never assumed.
 
 Reference solutions in `src/` — started 2026-11-17.
 
-- Done: **U6 L4 RemindMe**, **U6 L8 Lock Screen Maker**, **U6 L12 Random Forecaster**,
-  **U7 L8 Make a Library**. Each has a per-lesson README and commented App Lab JS.
+- Done: **U3 L7 Coding Quiz**, **U4 L12 Fortune Teller**, **U6 L4 RemindMe**,
+  **U6 L8 Lock Screen Maker**, **U6 L12 Random Forecaster**, **U6 L13 Hackathon**
+  (AP CS Test Taker Demographics example), **U7 L8 Make a Library**. Each has a
+  per-lesson README and commented App Lab JS.
 - Method: read the answer-key video frame by frame (OCR + direct frame images), then
   write a clean version. Frames beat OCR; see `scripts/README.md`.
 - Not literal transcriptions: the walkthrough videos edit code live, so the files are
@@ -110,9 +124,8 @@ clickable links; 97 rows, 88 links, 9 gaps.
 
 0. Regenerate answers after any pick change: `python3 scripts/build_answers.py`
 1. Continue reference solutions from the answer-key videos:
-   U6 L13 Hackathon, U7 L3 Practice, U7 L4 RPS Make,
-   U4 L2 Investigate, U4 L8 Conditionals Make, U4 L11 Functions Make,
-   U4 L12 Decision Maker, U3 L7 Designing an App.
+   U7 L3 Practice, U7 L4 RPS Make, U4 L2 Investigate,
+   U4 L8 Conditionals Make, U4 L11 Functions Make.
 2. Optional: fill the 9 gaps with Code.org teacher-forum or teacher-PD resources (not YouTube).
 3. Optional: extend `scripts/build_report.py` to emit CSV/JSON for a spreadsheet.
 4. Always update this file before context runs out, and commit.
@@ -176,17 +189,19 @@ only to locate the timestamps.
 
 | Lesson | Video ID | Length | Notes |
 |---|---|---|---|
-| U6 L13 Hackathon | `ChYHvfktgCE` | 43:52 | complete project build |
 | U7 L3 Parameters/Return Practice | `8t-HxetA4ns` | 4:33 | answer tutorial |
 | U7 L4 Parameters/Return Make (RPS) | `XFcgoBRHl-c` | 14:19 | class build |
 | U4 L2 Variables Investigate | `G6X4jByg41I` | 30:30 | works every level |
 | U4 L8 Conditionals Make | `rTU79XM8V1Q` | 28:12 | museum-ticket app |
 | U4 L11 Functions Make | `T5mFiXHqTmo` | 42:13 | quote-maker app |
-| U4 L12 Decision Maker | `ASE01GgeIdc` | 33:19 | complete app |
-| U3 L7 Designing an App Part 2 | `Sy3PYZ7QLhc` | 43:16 | project build |
 
 Done already: U6 L4 (`z_OOZ2gaY-s`), U6 L8 (`B-yYUaC5GxE`), U6 L12 (`pk32rysRQAg`),
-U7 L8 (`1joEzBtosrY`).
+U6 L13 (`ChYHvfktgCE`), U7 L8 (`1joEzBtosrY`).
+
+The mapped videos for U3 L7 and U4 L12 were not usable answer keys, so those two were
+extracted from Mr. Kaiser walkthroughs instead: U3 L7 `ItucouYL8y4` (Coding Quiz) and
+U4 L12 `OTx-S3ZmGxE` (Fortune Teller). The U6 L13 app is one example hackathon project
+(AP CS Test Taker Demographics), not a required topic.
 
 **Hard limit:** only these answer-key / walkthrough videos contain completed code. The
 other coding-lesson videos are concept tutorials (e.g. U4 L3 `2DLWC7DMPx0` never solves

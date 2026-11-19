@@ -27,12 +27,17 @@ csp-2025 AP CSP course, reconstructed from the lesson-by-lesson video guide in
 
 ```
 src/
+  unit-03/
+    lesson-07-designing-an-app-part-2/  Coding Quiz app
+  unit-04/
+    lesson-12-decision-maker/           Fortune Teller app
   unit-06/
-    lesson-04-lists-make/       RemindMe app
-    lesson-08-loops-make/       Lock Screen Maker app
-    lesson-12-traversals-make/  Random Forecaster app
+    lesson-04-lists-make/               RemindMe app
+    lesson-08-loops-make/               Lock Screen Maker app
+    lesson-12-traversals-make/          Random Forecaster app
+    lesson-13-hackathon/                AP CS Test Taker Demographics example
   unit-07/
-    lesson-08-make-a-library/   Cereal Nutrition library
+    lesson-08-make-a-library/           Cereal Nutrition library
 ```
 
 More lessons are added as each answer-key video is processed. See `notes/answers/` for
